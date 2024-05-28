@@ -13,23 +13,17 @@
         <!-- Tab title -->
         <title>Kevin Malekera</title>
         <!-- SEO -->
-        <meta name="title" content="Kevin Malekera - student cdd & freelancer">
-        <meta name="description" content="Hey, ik ben Kevin Malekera student Creative Digital Design aan de Hogeschool VIVES en freelancer als digital designer.">
-        <meta name="keywords" content="kevin, malekera, creative, digital, design, vives, Kevin Malekera, fhg, Flow Hospitality Group, hogeschool, cdd, freelance, freelancer, brugge, web, webdesign, webdevelopment, branding, rebranding, webshop, seo, html, css, javascript, wordpress, mysql, php, adobe, illustrator, photoshop, indesign, project, contact, realisaties, belcoast, holidays, expert, Creative Digital Design">
+        <meta name="title" content="Kevin Malekera - Student Digital Experience Design">
+        <meta name="description" content="Hey, I'm Kevin Malekera student Digital Experience Design at Thomas More University College and freelancer as a digital designer.">
+        <meta name="keywords" content="kevin, malekera, creative, digital, design, vives, Kevin Malekera, fhg, Flow Hospitality Group, hogeschool, cdd, freelance, freelancer, brugge, web, webdesign, webdevelopment, branding, rebranding, webshop, seo, html, css, javascript, wordpress, mysql, php, adobe, illustrator, photoshop, indesign, project, contact, realisaties, belcoast, holidays, expert, Creative Digital Design, Digital Experience Design, Thomas More, University College, Mechelen, Malines">
         <meta name="robots" content="index, follow">
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="author" content="Kevin Malekera">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Language meta tags -->
-        <link rel="alternate" hreflang="nl-nl" href="https://kevinmalekera.be/">
-        <link rel="alternate" hreflang="nl-be" href="https://kevinmalekera.be/">
-        <link rel="alternate" hreflang="nl" href="https://kevinmalekera.be/">
-        <link rel="alternate" hreflang="fr-fr" href="https://kevinmalekera.be/?lang=fr">
-        <link rel="alternate" hreflang="fr-be" href="https://kevinmalekera.be/?lang=fr">
-        <link rel="alternate" hreflang="fr" href="https://kevinmalekera.be/?lang=fr">
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/?lang=en">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/?lang=en">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/?lang=en">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/">
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="assets/media/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="assets/media/favicon/favicon-32x32.png">
@@ -52,23 +46,8 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
     <body>
-        <!-- Preloader -->
-        <div class="pre-loader">
-            <div class="sk-fading-circle">
-                <div class="sk-circle1 sk-circle"></div>
-                <div class="sk-circle2 sk-circle"></div>
-                <div class="sk-circle3 sk-circle"></div>
-                <div class="sk-circle4 sk-circle"></div>
-                <div class="sk-circle5 sk-circle"></div>
-                <div class="sk-circle6 sk-circle"></div>
-                <div class="sk-circle7 sk-circle"></div>
-                <div class="sk-circle8 sk-circle"></div>
-                <div class="sk-circle9 sk-circle"></div>
-                <div class="sk-circle10 sk-circle"></div>
-                <div class="sk-circle11 sk-circle"></div>
-                <div class="sk-circle12 sk-circle"></div>
-            </div>
-        </div>
+        <!-- Include preloader -->
+        <?php include_once(__DIR__ . '/includes/preloader.inc.php'); ?>
         <!-- Header -->
         <header class="overlay">
             <div id="navigation" class="fw-container">
@@ -82,9 +61,9 @@
                         <div>
                             <div>
                                 <ul>
-                                    <li><a href="./work.html" class="underline-hover-white">Realisaties</a></li>
-                                    <li><a href="./resume.html" class="underline-hover-white">Curriculum vitae</a></li>
-                                    <li><a href="./about.html" class="underline-hover-white">Over mij</a></li>
+                                    <li><a href="./work.html" class="underline-hover-white">Work</a></li>
+                                    <li><a href="./resume.html" class="underline-hover-white">Resume</a></li>
+                                    <li><a href="./about.html" class="underline-hover-white">About</a></li>
                                     <li><a href="./contact.html" class="underline-hover-white">Contact</a></li>
                                 </ul>
                             </div>
