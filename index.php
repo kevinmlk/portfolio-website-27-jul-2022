@@ -229,11 +229,8 @@
                     </div>
                 </div>
             </section>
-            <!-- Foto parallax section -->
-            <div class="parallax-image">
-                <h3>Need more inspiration?<br>See my full portfolio</h3>
-                <a href="./work.php" class="button-coral">See portfolio</a>
-            </div>
+            <!-- Include parallax -->
+            <?php include_once(__DIR__ . '/includes/parallax.inc.php'); ?>
         </main>
         <!-- Include footer -->
         <?php include_once(__DIR__ . '/includes/footer.inc.php'); ?>
