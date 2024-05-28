@@ -82,10 +82,10 @@
                         <div>
                             <div>
                                 <ul>
-                                    <li><a href="work" class="underline-hover-white">Realisaties</a></li>
-                                    <li><a href="resume" class="underline-hover-white">Curriculum vitae</a></li>
-                                    <li><a href="about" class="underline-hover-white">Over mij</a></li>
-                                    <li><a href="contact" class="underline-hover-white">Contact</a></li>
+                                    <li><a href="./work.html" class="underline-hover-white">Realisaties</a></li>
+                                    <li><a href="./resume.html" class="underline-hover-white">Curriculum vitae</a></li>
+                                    <li><a href="./about.html" class="underline-hover-white">Over mij</a></li>
+                                    <li><a href="./contact.html" class="underline-hover-white">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,10 +94,10 @@
                 <!-- Main navigation -->
                 <nav>
                     <ul>
-                        <li><a href="work" class="underline-hover-white">Realisaties</a></li>
-                        <li><a href="resume" class="underline-hover-white">Curriculum vitae</a></li>
-                        <li><a href="about" class="underline-hover-white">Over mij</a></li>
-                        <li><a href="contact" class="underline-hover-white">Contact</a></li>
+                        <li><a href="./work.html" class="underline-hover-white">Realisaties</a></li>
+                        <li><a href="./resume.html" class="underline-hover-white">Curriculum vitae</a></li>
+                        <li><a href="./about.html" class="underline-hover-white">Over mij</a></li>
+                        <li><a href="./contact.html" class="underline-hover-white">Contact</a></li>
                     </ul>
                 </nav>
             </div>
@@ -235,28 +235,8 @@
                 <a href="work" class="button-coral">Bekijk portfolio</a>
             </div>
         </main>
-        <!-- Return to Top -->
-        <a href="javascript:" id="return-to-top"><i class="fa-solid fa-angles-up"></i></a>
-        <!-- Footer -->
-        <footer>
-            <div class="fw-container footer-content">
-                <ul class="footer-contact reveal fade-bottom">
-                    <li><a href="mailto:kevin.malekera@student.vives.be" class="mail">kevin.malekera@student.vives.be</a></li>
-                    <li><a href="tel:+32468213155" class="phone">+32 468 21 31 55</a></li>
-                </ul>
-                <h2 class="reveal fade-bottom"><a href="/">KM</a></h2>
-                <ul class="footer-socials reveal fade-bottom">
-                    <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
-                    <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
-                </ul>
-            </div>
-            <!-- Copyright -->
-            <div class="footer-copyright">
-                <p>&copy; Kevin Malekera. All rights reserved</p>
-                <!-- Language menu -->
-                <div id="language-menu"></div>
-            </div>
-        </footer>
+        <!-- Include footer -->
+        <?php include_once(__DIR__ . '/includes/footer.inc.php'); ?>
         <!-- JS files links -->
         <script src="assets/js/typewriter.js" defer></script>
         <!-- Back to top js -->
@@ -267,10 +247,6 @@
         <script src="assets/js/jquery-3.6.0.min.js"></script>
         <!-- Fade in script -->
         <script src="assets/js/fade-in.js" defer></script>
-        <!-- Lingumania script -->
-        <script src="assets/js/lingumania.min.js"></script>
-        <!-- Lingumania translation data -->
-        <script src="assets/js/translation-data.js"></script>
         <!-- Preloader -->
         <script src="assets/js/preloader.js"></script>
     </body>
