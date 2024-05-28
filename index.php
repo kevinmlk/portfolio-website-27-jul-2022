@@ -232,7 +232,7 @@
             <!-- Foto parallax section -->
             <div class="parallax-image">
                 <h3>Meer inspiratie nodig?<br>Zie mijn volledige portfolio</h3>
-                <a href="work" class="button-coral">Bekijk portfolio</a>
+                <a href="./work.php" class="button-coral">Bekijk portfolio</a>
             </div>
         </main>
         <!-- Include footer -->

@@ -4,13 +4,13 @@
   <footer>
     <div class="fw-container footer-content">
       <ul class="footer-contact reveal fade-bottom">
-        <li><a href="mailto:kevin.malekera@student.vives.be" class="mail">kevin.malekera@student.vives.be</a></li>
+        <li><a href="mailto:kevin.malekera@protonmail.com" class="mail">kevin.malekera@protonmail.com</a></li>
         <li><a href="tel:+32468213155" class="phone">+32 468 21 31 55</a></li>
       </ul>
-      <h2 class="reveal fade-bottom"><a href="/">KM</a></h2>
+      <h2 class="reveal fade-bottom"><a href="index.php">KM</a></h2>
       <ul class="footer-socials reveal fade-bottom">
-        <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
-        <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
+        <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="./assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
+        <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="./assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
       </ul>
     </div>
     <!-- Copyright -->
