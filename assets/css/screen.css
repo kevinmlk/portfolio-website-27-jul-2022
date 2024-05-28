@@ -97,6 +97,13 @@
     color: var(--white) !important;
 }
 
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .question {
     color: var(--dark) !important;
 }
@@ -106,8 +113,8 @@
 }
 
 .service img {
-    width: 100px;
-    margin-bottom: 1.5rem;
+    width: 72px;
+    margin-bottom: 2rem;
 }
 
 .service h4, .question h4 {

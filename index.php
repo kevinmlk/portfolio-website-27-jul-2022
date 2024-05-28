@@ -94,9 +94,9 @@
                 <!-- Main navigation -->
                 <nav>
                     <ul>
-                        <li><a href="./work.html" class="underline-hover-white">Realisaties</a></li>
-                        <li><a href="./resume.html" class="underline-hover-white">Curriculum vitae</a></li>
-                        <li><a href="./about.html" class="underline-hover-white">Over mij</a></li>
+                        <li><a href="./work.html" class="underline-hover-white">Work</a></li>
+                        <li><a href="./resume.html" class="underline-hover-white">Resume</a></li>
+                        <li><a href="./about.html" class="underline-hover-white">About</a></li>
                         <li><a href="./contact.html" class="underline-hover-white">Contact</a></li>
                     </ul>
                 </nav>
@@ -105,9 +105,9 @@
             <div class="parallax-content">
                 <h1>Digital Designer</h1>
                 <div class="typed-container">
-                    <p>Student Creative Digital Design gespecialiseerd in <span class='typed-text'></span><span class='cursor'>&nbsp;</span></p>
+                    <p>Student Digital Experience Design specialised in <span class='typed-text'></span><span class='cursor'>&nbsp;</span></p>
                 </div>
-                <a href="contact" class="button-coral">Contacteer mij</a>
+                <a href="contact" class="button-coral">Contact me</a>
             </div>
             
             <!-- Video parallax banner -->
@@ -125,47 +125,47 @@
                     <img src="assets/media/about-me-1.jpg" class="image-border-left reveal fade-bottom" alt="about me" loading="lazy">
                     <!-- Media content -->
                     <div class="media-content reveal fade-bottom">
-                        <h3 class="tag-line">Mijn passie en focus is web development op maat.</h3>
+                        <h3 class="tag-line">My passion and focus is custom web development.</h3>
                         <p>
-                            Hey, ik ben Kevin Malekera een student Creative Digital Design aan de Hogeschool VIVES in Brugge. Mijn doel als Digital Designer is het creëren van digitale middelen voor multimedia en grafische projecten, waaronder websites, apps, reclame, sociale media, foto en video. U kunt mij ook inhuren als freelancer voor websites, webshops en seo optimalisatie.
+                            Hey, I'm Kevin Malekera a Digital Experience Design student at the University College Thomas More in Mechelen. My goal as a Digital Designer is to create digital assets for multimedia and graphic projects, including websites, apps, advertising, social media, photo and video. You can also hire me as a freelancer for websites, web shops and seo optimization.
                             <br><br>
-                            Als u meer wilt weten over mij en mijn manier van werken, neem gerust een kijkje rond op mijn zelfgebouwde website en neem vandaag nog contact met mij op.</p>
-                        <a href="about" class="button-black">Meer over mij</a>
+                            If you want to know more about me and my way of working, feel free to take a look around my self-built website.</p>
+                        <a href="about" class="button-black">More about me</a>
                     </div>  
                 </div>
             </section>
             <!-- Services section -->
             <section class="black-bg">
                 <div class="fw-container">
-                    <h3>Diensten die ik aanbied</h3>
+                    <h3>Services that I offer</h3>
                     <div class="line coral"></div>
                     <div id="services-container" class="reveal fade-bottom">
                         <div class="service">
                             <img src="assets/media/icons/website-coral.png" alt="diensten website icon" loading="lazy">
                             <h4>Websites</h4>
                             <p>
-                                Website nodig of een bestaande website vernieuwen? Ik ontwikkel voor u een website volledig op maat.
+                                Need a website or revamp an existing one? I will develop a fully customized website for you. 
                             </p>
                         </div>
                         <div class="service">
                             <img src="assets/media/icons/cart-coral.png" alt="diensten e-commerce icon" loading="lazy">
                             <h4>E-commerce</h4>
                             <p>
-                                Wilt u een goedwerkende webshop starten naast uw fysieke winkel? Met WooCommerce bouw ik voor u een volledige webshop.
+                                Do you want to start a functioning webshop in addition to your physical store? With WooCommerce I will build you a complete webshop. 
                             </p>
                         </div>
                         <div class="service">
                             <img src="assets/media/icons/seo-coral.png" alt="diensten digitale marketing icon" loading="lazy">
-                            <h4>Digitale marketing</h4>
+                            <h4>Digital marketing</h4>
                             <p>
-                                SEO optimalisatie, Google Ads en e-mailmarketing. Geef uw conversies een boost en bereik uw klanten via verschillende kanalen.
+                                SEO optimization, Google Ads and email marketing. Boost your conversions and reach your customers through various channels. 
                             </p>
                         </div>
                         <div class="service">
                             <img src="assets/media/icons/brush-coral.png" alt="diensten branding icon" loading="lazy">
                             <h4>Branding</h4>
                             <p>
-                                Unieke huisstijl nodig voor uw brand met een origineel logo? Door mijn grafische skills te combineren creëer ik unieke designs voor u.
+                                Need unique corporate identity for your brand with an original logo? By combining my graphic skills I create unique designs for you. 
                             </p>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
             <!-- Skills summary section -->
             <section class="white-bg">
                 <div class="fw-container skills-section">
-                    <h3>Enkele belangrijke vaardigheden</h3>
+                    <h3>Some important skills</h3>
                     <div class="line grey"></div>
                     <ul class="skills-container reveal fade-bottom">
                         <li>HTML</li>
@@ -187,18 +187,18 @@
                         <li>Adobe Photoshop</li>
                         <li>Adobe InDesign</li>
                     </ul>
-                    <a href="resume" class="button-black">Bekijk mijn cv</a>
+                    <a href="resume" class="button-black">See my resume</a>
                 </div>
             </section>
             <!-- Video parallax section -->
             <div class="overlay second-video-parallax">
-                <h3>Wilt u een project bouwen?<br>Aarzel dan niet</h3>
-                <a href="contact" class="button-coral">Contacteer mij</a>
+                <h3>Do you want to build a project?<br>Then don't hesitate</h3>
+                <a href="./contact.php" class="button-coral">Contact me</a>
             </div>
             <!-- Work section -->
             <section class="white-bg">
                 <div class="fw-container">
-                    <h3>Recente realisaties</h3>
+                    <h3>Recent work</h3>
                     <div class="line grey"></div>
                     <div id="work-container">
                         <div class="media-content-small">
@@ -206,11 +206,11 @@
                             <div class="media-content-text reveal fade-bottom">
                                 <h4>Belcoast Holidays website</h4>
                                 <p>
-                                    Tijdens mijn leerrijke stage bij Flow Hospitality Group had ik de opdracht gekregen om de bestaande C-Holidays website te rebranden naar Belcoast Holidays.
+                                During my apprenticeship at Flow Hospitality Group, I was tasked with rebranding the existing C-Holidays website to Belcoast Holidays
                                     <br><br>
-                                    De website heeft een compleet nieuwe look gekregen die er frisser uitziet en meer een vakantiegevoel uitstraalt. Er is ook een recranet boekingsmodule aan de website gekoppeld zodat je meteen een verblijf kunt boeken.
+                                    The website got a completely new look that looks fresher and conveys more of a vacation feel. A recranet booking module was also linked to the website so you can book a stay right away. 
                                 </p>
-                                <a href="case/belcoast" class="underline-hover-black">Meer info</a>
+                                <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
                             </div>
                         </div>
 
@@ -231,8 +231,8 @@
             </section>
             <!-- Foto parallax section -->
             <div class="parallax-image">
-                <h3>Meer inspiratie nodig?<br>Zie mijn volledige portfolio</h3>
-                <a href="./work.php" class="button-coral">Bekijk portfolio</a>
+                <h3>Need more inspiration?<br>See my full portfolio</h3>
+                <a href="./work.php" class="button-coral">See portfolio</a>
             </div>
         </main>
         <!-- Include footer -->
