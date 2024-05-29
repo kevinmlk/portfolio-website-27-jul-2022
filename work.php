@@ -10,18 +10,18 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
-         <!-- Tab title -->
-         <title>Portfolio | Kevin Malekera</title>
-         <!-- SEO -->
-         <meta name="title" content="Kevin Malekera - My portfolio">
-         <meta name="description" content="Here you can see all my realizations and projects. Click on a case to learn more about it.">
-         <meta name="keywords" content="kevin, malekera, Kevin Malekera, portfolio, work, web, contact, case, websites, project, projects, web development">
-         <meta name="robots" content="index, follow">
-         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-         <meta name="author" content="Kevin Malekera">
-         <meta name="viewport" content="width=device-width, initial-scale=1">
-         <!-- Language meta tags -->
-         <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/work.php">
+        <!-- Tab title -->
+        <title>Portfolio | Kevin Malekera</title>
+        <!-- SEO -->
+        <meta name="title" content="Kevin Malekera - My portfolio">
+        <meta name="description" content="Here you can see all my realizations and projects. Click on a case to learn more about it.">
+        <meta name="keywords" content="kevin, malekera, Kevin Malekera, portfolio, work, web, contact, case, websites, project, projects, web development">
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="author" content="Kevin Malekera">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Language meta tags -->
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/work.php">
         <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/work.php">
         <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/work.php">
         <!-- Favicon -->
