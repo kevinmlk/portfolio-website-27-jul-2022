@@ -111,14 +111,16 @@
                     <!-- Portfolio navigation -->
                     <div class="items">
                       <span class="item active" data-name="all">All</span>
-                      <span class="item" data-name="Web">Websites</span>
-                      <!-- <span class="item" data-name="Graphic">Graphic</span>
-                      <span class="item" data-name="Photo">Photo</span>
+                      <span class="item" data-name="Web">Design</span>
+                      <span class="item" data-name="Graphic">Development</span>
+                      <!-- <span class="item" data-name="Photo">Photo</span>
                       <span class="item" data-name="Video">Video</span> -->
                     </div>
                     <!-- Portfolio images -->
                     <div class="gallery">
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/belcoast.jpg" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/belcoast-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/sousvide-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/matemi-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
                     </div>
                   </div>
                 </div>
