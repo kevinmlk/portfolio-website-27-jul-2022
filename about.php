@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
@@ -11,38 +11,32 @@
             gtag('config', 'G-H55DCDM7PL');
         </script>
         <!-- Title -->
-        <title>Over mij | Kevin Malekera</title>
+        <title>About | Kevin Malekera</title>
         <!-- SEO -->
-        <meta name="title" content="Kevin Malekera - Over mij">
-        <meta name="description" content="Dit ben ik in een notendop, ik ben geboren en woon al heel mijn leven in Brugge. De eerste lijn code schreef ik toen ik nog 16 jaar was, het was een mini game programma waarbij je een getal kon raden.">
-        <meta name="keywords" content="kevin, malekera, Kevin Malekera, over mij, brugge, persoonlijkheid, passies, hobby's, leven, coderem, programmeren, school, middelbaar, onderwijs, Milton Glaser, hardware, vidoe games, games, gaming, muziek, films, series, fotografie, linux">
+        <meta name="title" content="Kevin Malekera - About">
+        <meta name="description" content="This is me in a nutshell, I was born and have lived in Bruges all my life. The first line of code I wrote when I was still 16 years old, it was a mini game program where you could guess a number.">
+        <meta name="keywords" content="kevin, malekera, Kevin Malekera, about, bruges, personality, passions, hobby's, life, coding, programming, school, high school, education, Milton Glaser, hardware, video games, games, gaming, music, films, series, photography, design, linux">
         <meta name="robots" content="index, follow">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="author" content="Kevin Malekera">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Language meta tags -->
-        <link rel="alternate" hreflang="nl-nl" href="https://kevinmalekera.be/about">
-        <link rel="alternate" hreflang="nl-be" href="https://kevinmalekera.be/about">
-        <link rel="alternate" hreflang="nl" href="https://kevinmalekera.be/about">
-        <link rel="alternate" hreflang="fr-fr" href="https://kevinmalekera.be/about?lang=fr">
-        <link rel="alternate" hreflang="fr-be" href="https://kevinmalekera.be/about?lang=fr">
-        <link rel="alternate" hreflang="fr" href="https://kevinmalekera.be/about?lang=fr">
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/about?lang=en">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/about?lang=en">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/about?lang=en">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/about.php">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/about.php">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/about.php">
         <!-- Favicon -->
-        <link rel="apple-touch-icon" sizes="180x180" href="assets/media/favicon/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/media/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/media/favicon/favicon-16x16.png">
-        <link rel="manifest" href="assets/media/favicon/site.webmanifest">
-        <link rel="mask-icon" href="assets/media/favicon/safari-pinned-tab.svg" color="#000000">
+        <link rel="apple-touch-icon" sizes="180x180" href="./assets/media/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./assets/media/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="./assets/media/favicon/favicon-16x16.png">
+        <link rel="manifest" href="./assets/media/favicon/site.webmanifest">
+        <link rel="mask-icon" href="./assets/media/favicon/safari-pinned-tab.svg" color="#000000">
         <meta name="msapplication-TileColor" content="#000000">
         <meta name="theme-color" content="#ffffff">
         <!-- CSS files -->
-        <link rel="stylesheet" href="assets/css/reset.css">
-        <link rel="stylesheet" href="assets/css/template.css">
-        <link rel="stylesheet" href="assets/css/screen.css">
-        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="./assets/css/reset.css">
+        <link rel="stylesheet" href="./assets/css/template.css">
+        <link rel="stylesheet" href="./assets/css/screen.css">
+        <link rel="stylesheet" href="./assets/css/responsive.css">
         <!-- Google fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,28 +46,13 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
     <body>
-        <!-- Preloader -->
-        <div class="pre-loader">
-            <div class="sk-fading-circle">
-                <div class="sk-circle1 sk-circle"></div>
-                <div class="sk-circle2 sk-circle"></div>
-                <div class="sk-circle3 sk-circle"></div>
-                <div class="sk-circle4 sk-circle"></div>
-                <div class="sk-circle5 sk-circle"></div>
-                <div class="sk-circle6 sk-circle"></div>
-                <div class="sk-circle7 sk-circle"></div>
-                <div class="sk-circle8 sk-circle"></div>
-                <div class="sk-circle9 sk-circle"></div>
-                <div class="sk-circle10 sk-circle"></div>
-                <div class="sk-circle11 sk-circle"></div>
-                <div class="sk-circle12 sk-circle"></div>
-            </div>
-        </div>
+        <!-- Include preloader -->
+        <?php include_once(__DIR__ . '/includes/preloader.inc.php'); ?>
         <!-- Header -->
         <header class="overlay alt-header about-header">
             <div id="navigation" class="fw-container">
-                <h2><a href="/" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
-                <h2><a href="/" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
+                <h2><a href="./index.php" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
+                <h2><a href="./index.php" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
                 <!-- Hamburger menu -->
                 <div class="menu-wrap">
                     <input type="checkbox" class="toggler">
@@ -82,10 +61,10 @@
                         <div>
                             <div>
                                 <ul>
-                                    <li><a href="work" class="underline-hover-white">Realisaties</a></li>
-                                    <li><a href="resume" class="underline-hover-white">Curriculum vitae</a></li>
-                                    <li><a href="about" class="underline-hover-white">Over mij</a></li>
-                                    <li><a href="contact" class="underline-hover-white">Contact</a></li>
+                                    <li><a href="./work.php" class="underline-hover-white">Work</a></li>
+                                    <li><a href="./resume.php" class="underline-hover-white">Resume</a></li>
+                                    <li><a href="./about.php" class="underline-hover-white">About</a></li>
+                                    <li><a href="./contact.php" class="underline-hover-white">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,17 +73,17 @@
                 <!-- Main navigation -->
                 <nav>
                     <ul>
-                        <li><a href="work" class="underline-hover-white">Realisaties</a></li>
-                        <li><a href="resume" class="underline-hover-white">Curriculum vitae</a></li>
-                        <li><a href="about" class="active">Over mij</a></li>
-                        <li><a href="contact" class="underline-hover-white">Contact</a></li>
+                        <li><a href="./work.php" class="underline-hover-white">Work</a></li>
+                        <li><a href="./resume.php" class="underline-hover-white">Resume</a></li>
+                        <li><a href="./about.php" class="active">About</a></li>
+                        <li><a href="./contact.php" class="underline-hover-white">Contact</a></li>
                     </ul>
                 </nav>
             </div>
 
             <div class="parallax-content">
-                <h1>Over mij</h1>
-                <p>Mijn persoonlijkheid, hobby's en passies</p>
+                <h1>About me</h1>
+                <p>My personality, hobbies and passions</p>
             </div>
 
             <div></div>
@@ -117,9 +96,9 @@
                     <img src="assets/media/about-me-2.jpg" class="image-border-left reveal fade-bottom" alt="Kevin Malekera portret foto" loading="lazy">
                     <!-- Media content -->
                     <div class="media-content reveal fade-bottom">
-                        <h3 class="tag-line">Dit ben ik in een notendop.</h3>
+                        <h3 class="tag-line">This is me in a nutshell.</h3>
                         <p>
-                            Ik ben geboren, ga naar school en woon al heel mijn leven in Brugge. Ik speelde vroeger voetbal in mijn vrij tijd en mijn favoriete bordspel is schaken. Ik speel video games sinds de Nintendo GameCube en ik schreef mijn eerste lijn code toen ik 16 jaar was omdat ik mijn eigen video game wou programmeren.
+                        I was born, go to school and have lived in Bruges all my life. I used to play soccer in my spare time and my favorite board game is chess. I've been playing video games since the Nintendo GameCube and I wrote my first line of code when I was 16 because I wanted to program my own video game.
                         </p>
                     </div>  
                 </div>
@@ -191,34 +170,11 @@
                     </div>
                 </div>
             </section>
-           <!-- Foto parallax section -->
-           <div class="parallax-image">
-                <h3>Meer inspiratie nodig?<br>Zie mijn volledige portfolio</h3>
-                <a href="work" class="button-coral">Bekijk portfolio</a>
-            </div>
+           <!-- Include parallax -->
+           <?php include_once(__DIR__ . '/includes/parallax.inc.php'); ?>
         </main>
-        <!-- Return to Top -->
-        <a href="javascript:" id="return-to-top"><i class="fa-solid fa-angles-up"></i></a>
-        <!-- Footer -->
-        <footer>
-            <div class="fw-container footer-content">
-                <ul class="footer-contact reveal fade-bottom">
-                    <li><a href="mailto:kevin.malekera@student.vives.be" class="mail">kevin.malekera@student.vives.be</a></li>
-                    <li><a href="callto:+32468213155" class="phone">+32 468 21 31 55</a></li>
-                </ul>
-                <h2 class="reveal fade-bottom"><a href="/">KM</a></h2>
-                <ul class="footer-socials reveal fade-bottom">
-                    <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
-                    <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
-                </ul>
-            </div>
-            <!-- Copyright -->
-            <div class="footer-copyright">
-                <p>&copy; Kevin Malekera. All rights reserved</p>
-                <!-- Language menu -->
-                <div id="language-menu"></div>
-            </div>
-        </footer>
+        <!-- Include footer -->
+        <?php include_once(__DIR__ . '/includes/footer.inc.php'); ?>
         <!-- Back to top js -->
         <script src="assets/js/back-to-top.js" defer></script>
         <!-- Font awesome link -->
@@ -227,10 +183,6 @@
         <script src="assets/js/jquery-3.6.0.min.js"></script>
         <!-- Fade-in script -->
         <script src="assets/js/fade-in.js" defer></script>
-        <!-- Lingumania script -->
-        <script src="assets/js/lingumania.min.js"></script>
-        <!-- Lingumania translation data -->
-        <script src="assets/js/translation-data.js"></script>
         <!-- Preloader -->
         <script src="assets/js/preloader.js"></script>
     </body>
