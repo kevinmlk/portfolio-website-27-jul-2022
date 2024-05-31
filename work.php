@@ -111,19 +111,19 @@
                     <!-- Portfolio navigation -->
                     <div class="items">
                       <span class="item active" data-name="all">All</span>
-                      <span class="item" data-name="Web">Design</span>
-                      <span class="item" data-name="Graphic">Development</span>
+                      <span class="item" data-name="design">Design</span>
+                      <span class="item" data-name="development">Development</span>
                       <!-- <span class="item" data-name="Photo">Photo</span>
                       <span class="item" data-name="Video">Video</span> -->
                     </div>
                     <!-- Portfolio images -->
                     <div class="gallery">
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/belcoast-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/sousvide-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/matemi-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/matisse-and-henri-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/jdb-engineering-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
-                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/vinum-et-plura-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                    <div class="image" data-name="design"><a href="./case/jbd-engineering.php"><span><img src="./assets/media/jbd-engineering-thumbnail.png" alt="Jbd Engineering website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="design"><a href="./case/vinum-et-plura.php"><span><img src="./assets/media/vinum-et-plura-thumbnail.png" alt="Vinum et Plura website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="design"><a href="./case/matemi.php"><span><img src="./assets/media/matemi-thumbnail.png" alt="Matemi website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="design"><a href="./case/matisse-and-henri.php"><span><img src="./assets/media/matisse-and-henri-thumbnail.png" alt="Matisse and Henri website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="development"><a href="./case/belcoast.php"><span><img src="./assets/media/belcoast-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="development"><a href="./case/sousvide.php"><span><img src="./assets/media/sousvide-thumbnail.png" alt="Sous Vide Europe website mockup" loading="lazy"></span></a></div>
                     </div>
                   </div>
                 </div>
