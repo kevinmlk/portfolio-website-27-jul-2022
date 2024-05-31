@@ -404,6 +404,10 @@
     color: var(--whitegrey);
 }
 
+.work-experience .work-row:not(:last-child) {
+    margin-bottom: 4rem;
+}
+
 .work-description {
     width: 60%;
     display: flex;
@@ -426,6 +430,9 @@
 
 .work-description ul {
     padding-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
 }
 
 .work-description ul li {

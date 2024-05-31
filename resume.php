@@ -207,7 +207,7 @@
                             <h4><a href="https://www.lsdevign.be/nl/" target="_blank">lsDevign</a></h4>
                             <div class="work-description">
                                 <h5>UX/UI Designer</h5>
-                                <h6>2023</h6>
+                                <h6>Aug 2023</h6>
                                 <ul>
                                     <li>Bugs opsporen en oplossen op de C-Holidays website en de UX/UI van de site verbeteren.</li>
                                     <li>Live visuals voor de schermen binnen het hotel aanpassen, vluchtplan bewerken met Adobe designtools.</li>
@@ -222,13 +222,12 @@
                             <h4><a href="https://www.lsdevign.be/nl/" target="_blank">lsDevign</a></h4>
                             <div class="work-description">
                                 <h5>UX/UI Design Intern</h5>
-                                <h6>2023</h6>
+                                <h6>Mar - Jun 2023</h6>
                                 <ul>
-                                    <li>Bugs opsporen en oplossen op de C-Holidays website en de UX/UI van de site verbeteren.</li>
-                                    <li>Live visuals voor de schermen binnen het hotel aanpassen, vluchtplan bewerken met Adobe designtools.</li>
-                                    <li>Foto's en video's maken van de hotels, vakantiehuizen en sfeer foto's op het strand. Materiaal vervolgens bewerken met Adobe programma's voor op sociale media.</li>
-                                    <li>Rebranding van de C-Holidays website naar Belcoast Holidays.</li>
-                                    <li>SEO van de website verbeteren.</li>
+                                    <li>Developing the UI design strategy by gathering and evaluating the user requirements, target audience and brand identity in collaboration with the manager.</li>
+                                    <li>Conducting UX Research and incorporating the brand's visual identity, typography and other visual elements.</li>
+                                    <li>Creating sitemaps, wireframes and prototype's to effectively communicate the interaction and design ideas.</li>
+                                    <li>Executing all visual design stages from concept to final hand-off to development.</li>
                                 </ul>
                             </div>
                         </div>
@@ -237,7 +236,7 @@
                             <h4><a href="https://www.digitalup.be/" target="_blank">Digital Up</a></h4>
                             <div class="work-description">
                                 <h5>Web Design Intern</h5>
-                                <h6>2022</h6>
+                                <h6>Sep 2022 - Jan 2023</h6>
                                 <ul>
                                     <li>Bugs opsporen en oplossen op de C-Holidays website en de UX/UI van de site verbeteren.</li>
                                     <li>Live visuals voor de schermen binnen het hotel aanpassen, vluchtplan bewerken met Adobe designtools.</li>
@@ -252,13 +251,13 @@
                             <h4><a href="https://flowhospitalitygroup.be/" target="_blank">Flow Hospitality Group</a></h4>
                             <div class="work-description">
                                 <h5>Digital Design Intern</h5>
-                                <h6>2022</h6>
+                                <h6>Feb - Jun 2022</h6>
                                 <ul>
-                                    <li>Bugs opsporen en oplossen op de C-Holidays website en de UX/UI van de site verbeteren.</li>
-                                    <li>Live visuals voor de schermen binnen het hotel aanpassen, vluchtplan bewerken met Adobe designtools.</li>
-                                    <li>Foto's en video's maken van de hotels, vakantiehuizen en sfeer foto's op het strand. Materiaal vervolgens bewerken met Adobe programma's voor op sociale media.</li>
-                                    <li>Rebranding van de C-Holidays website naar Belcoast Holidays.</li>
-                                    <li>SEO van de website verbeteren.</li>
+                                    <li>Identify and fix bugs on the C-Holidays website and improve the UX/UI of the site.</li>
+                                    <li>Adjusting live visuals for the screens within the hotel, editing flight plan with Adobe design tools.</li>
+                                    <li>Taking photos and videos of the hotels, vacation rentals and atmosphere photos on the beach. Then edited the pictures and videos with Adobe programs for social media.</li>
+                                    <li>Rebranding the C-Holidays website to Belcoast Holidays.</li>
+                                    <li>Improving the SEO of the website.</li>
                                 </ul>
                             </div>
                         </div>
