@@ -152,6 +152,15 @@
                             <div class="work-description">
                                 <h5>Bachelor Degree in Digital Experience Design</h5>
                                 <h6>2023 - present</h6>
+                                <p>
+                                    XD is a professional bachelor's program consisting of three pillars: Design, Development & Communication.
+                                    <br><br>
+                                    In this program, we learn how intelligent websites and apps function and how to program them ourselves using CraftCMS, PHP, and JavaScript for web development, and React Native for mobile applications.
+                                    <br><br>
+                                    During lab courses, we work on major projects for external clients, which we then present as fully finished products to fellow students, teachers, and industry professionals.
+                                    <br><br>
+                                    In the final phase of the program, we specialize either as User Interaction Designer or Creative Application Developer.
+                                </p>
                             </div>
                         </div>
                         <!-- Vives row -->
