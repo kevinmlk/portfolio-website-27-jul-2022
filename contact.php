@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
@@ -14,35 +14,29 @@
         <title>Contact | Kevin Malekera</title>
         <!-- SEO -->
         <meta name="title" content="Kevin Malekera - Contact">
-        <meta name="description" content="Heeft u een vraag of wilt u mij inhuren voor een project, contacteer mij dan nog vandaag. Ik sta ook open voor vacatures voor een stageplek voor volgend academiejaar.">
-        <meta name="keywords" content="kevin, malekera, Kevin Malekera, contact, contacteren, vacatures, huur mij in, vragen, contactformulier, bericht, stageplek, werkplekleren">
+        <meta name="description" content="If you have a question or would like to hire me for a project, contact me today. I am also open to job offers for an internship for next academic year.">
+        <meta name="keywords" content="kevin, malekera, Kevin Malekera, contact, vacancies, hire me, questions, contact form, message, internship, workplace learning">
         <meta name="robots" content="index, follow">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="author" content="Kevin Malekera">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Language meta tags -->
-        <link rel="alternate" hreflang="nl-nl" href="https://kevinmalekera.be/contact">
-        <link rel="alternate" hreflang="nl-be" href="https://kevinmalekera.be/contact">
-        <link rel="alternate" hreflang="nl" href="https://kevinmalekera.be/contact">
-        <link rel="alternate" hreflang="fr-fr" href="https://kevinmalekera.be/contact?lang=fr">
-        <link rel="alternate" hreflang="fr-be" href="https://kevinmalekera.be/contact?lang=fr">
-        <link rel="alternate" hreflang="fr" href="https://kevinmalekera.be/contact?lang=fr">
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/contact?lang=en">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/contact?lang=en">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/contact?lang=en">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/contact.php">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/contact.php">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/contact.php">
         <!-- Favicon -->
-        <link rel="apple-touch-icon" sizes="180x180" href="assets/media/favicon/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/media/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/media/favicon/favicon-16x16.png">
-        <link rel="manifest" href="assets/media/favicon/site.webmanifest">
-        <link rel="mask-icon" href="assets/media/favicon/safari-pinned-tab.svg" color="#000000">
+        <link rel="apple-touch-icon" sizes="180x180" href="./assets/media/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./assets/media/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="./assets/media/favicon/favicon-16x16.png">
+        <link rel="manifest" href="./assets/media/favicon/site.webmanifest">
+        <link rel="mask-icon" href="./assets/media/favicon/safari-pinned-tab.svg" color="#000000">
         <meta name="msapplication-TileColor" content="#000000">
         <meta name="theme-color" content="#ffffff">
         <!-- CSS files -->
-        <link rel="stylesheet" href="assets/css/reset.css">
-        <link rel="stylesheet" href="assets/css/template.css">
-        <link rel="stylesheet" href="assets/css/screen.css">
-        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="./assets/css/reset.css">
+        <link rel="stylesheet" href="./assets/css/template.css">
+        <link rel="stylesheet" href="./assets/css/screen.css">
+        <link rel="stylesheet" href="./assets/css/responsive.css">
         <!-- Google fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,28 +46,13 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
     <body>
-        <!-- Preloader -->
-        <div class="pre-loader">
-            <div class="sk-fading-circle">
-                <div class="sk-circle1 sk-circle"></div>
-                <div class="sk-circle2 sk-circle"></div>
-                <div class="sk-circle3 sk-circle"></div>
-                <div class="sk-circle4 sk-circle"></div>
-                <div class="sk-circle5 sk-circle"></div>
-                <div class="sk-circle6 sk-circle"></div>
-                <div class="sk-circle7 sk-circle"></div>
-                <div class="sk-circle8 sk-circle"></div>
-                <div class="sk-circle9 sk-circle"></div>
-                <div class="sk-circle10 sk-circle"></div>
-                <div class="sk-circle11 sk-circle"></div>
-                <div class="sk-circle12 sk-circle"></div>
-            </div>
-        </div>
+        <!-- Include preloader -->
+        <?php include_once(__DIR__ . '/includes/preloader.inc.php'); ?>
         <!-- Header -->
         <header class="overlay alt-header contact-header">
             <div id="navigation" class="fw-container">
-                <h2><a href="/" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
-                <h2><a href="/" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
+                <h2><a href="./index.php" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
+                <h2><a href="./index.php" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
                 <!-- Hamburger menu -->
                 <div class="menu-wrap">
                     <input type="checkbox" class="toggler">
@@ -82,10 +61,10 @@
                         <div>
                             <div>
                                 <ul>
-                                    <li><a href="work" class="underline-hover-white">Realisaties</a></li>
-                                    <li><a href="resume" class="underline-hover-white">Curriculum vitae</a></li>
-                                    <li><a href="about" class="underline-hover-white">Over mij</a></li>
-                                    <li><a href="contact" class="underline-hover-white">Contact</a></li>
+                                    <li><a href="./work.php" class="underline-hover-white">Work</a></li>
+                                    <li><a href="./resume.php" class="underline-hover-white">Resume</a></li>
+                                    <li><a href="./about.php" class="underline-hover-white">About</a></li>
+                                    <li><a href="./contact.php" class="underline-hover-white">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,17 +73,17 @@
                 <!-- Main navigation -->
                 <nav>
                     <ul>
-                        <li><a href="work" class="underline-hover-white">Realisaties</a></li>
-                        <li><a href="resume" class="underline-hover-white">Curriculum vitae</a></li>
-                        <li><a href="about" class="underline-hover-white">Over mij</a></li>
-                        <li><a href="contact" class="active">Contact</a></li>
+                        <li><a href="./work.php" class="underline-hover-white">Work</a></li>
+                        <li><a href="./resume.php" class="underline-hover-white">Resume</a></li>
+                        <li><a href="./about.php" class="underline-hover-white">About</a></li>
+                        <li><a href="./contact.php" class="active">Contact</a></li>
                     </ul>
                 </nav>
             </div>
 
             <div class="parallax-content">
                 <h1>Contact</h1>
-                <p>Neem contact met me op</p>
+                <p>Please contact me</p>
             </div>
 
             <div></div>
@@ -116,21 +95,21 @@
                 <div class="fw-container">
                     <div id="questions-container" class="reveal fade-bottom">
                         <div class="question">
-                            <h4>Vacatures</h4>
+                            <h4>Vacancies</h4>
                             <p>
-                                Ik sta open voor een stageplek voor volgend academiejaar, stuur mij gerust een bericht als u een plaatsje over heb.
+                            I am open for an internship position for next academic year, please feel free to send me a message if you have a space available.
                             </p>
                         </div>
                         <div class="question">
-                            <h4>Huur mij in</h4>
+                            <h4>Hire me</h4>
                             <p>
-                                Naast mijn studies doe ik ook freelance werk, neem contact met mij op als u mij wilt inhuren voor een project.
+                            In addition to my studies, I also do freelance work, please contact me if you would like to hire me for a project.
                             </p>
                         </div>
                         <div class="question">
-                            <h4>Vragen</h4>
+                            <h4>Questions</h4>
                             <p>
-                                Heeft u bepaalde vragen over de website of over iets anders, stuur mij gerust een bericht en ik antwoord zo snel mogelijk terug.
+                            If you have certain questions about the website or anything else, please feel free to send me a message and I will reply back as soon as possible.
                             </p>
                         </div>
                     </div>
@@ -139,9 +118,9 @@
             <!-- Contact form section -->
             <section class="black-bg">
                 <div class="fw-container">
-                    <h3>Ik zal zo snel mogelijk contact met u opnemen</h3>
+                    <h3>I will contact you as soon as possible</h3>
                     <div class="line coral"></div>
-                    <form method="post" action="assets/php/contact-form.php" class="reveal fade-bottom">
+                    <form method="post" action="./assets/php/contact-form.php" class="reveal fade-bottom">
                         <fieldset>
                             <div class="form-container">
                                 <input id="name" type="text" name="name" placeholder="*Name" required>
@@ -150,51 +129,24 @@
                             <input id="topic" type="text" name="topic" placeholder="*Topic" required>
                             <textarea id="message" name="message" placeholder="*Message" required></textarea>
                         </fieldset>
-                        <input id="send-message" type="submit" name="send-message" value="Stuur bericht">
+                        <input id="send-message" type="submit" name="send-message" value="Send message">
                     </form>
                 </div>
             </section>
-            <!-- Foto parallax section -->
-           <div class="parallax-image">
-                <h3>Meer inspiratie nodig?<br>Zie mijn volledige portfolio</h3>
-                <a href="work" class="button-coral">Bekijk portfolio</a>
-            </div>
+            <!-- Include parallax -->
+            <?php include_once(__DIR__ . '/includes/parallax.inc.php'); ?>
         </main>
-        <!-- Return to Top -->
-        <a href="javascript:" id="return-to-top"><i class="fa-solid fa-angles-up"></i></a>
-        <!-- Footer -->
-        <footer>
-            <div class="fw-container footer-content">
-                <ul class="footer-contact reveal fade-bottom">
-                    <li><a href="mailto:kevin.malekera@student.vives.be" class="mail">kevin.malekera@student.vives.be</a></li>
-                    <li><a href="callto:+32468213155" class="phone">+32 468 21 31 55</a></li>
-                </ul>
-                <h2 class="reveal fade-bottom"><a href="/">KM</a></h2>
-                <ul class="footer-socials reveal fade-bottom">
-                    <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
-                    <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
-                </ul>
-            </div>
-            <!-- Copyright -->
-            <div class="footer-copyright">
-                <p>&copy; Kevin Malekera. All rights reserved</p>
-                <!-- Language menu -->
-                <div id="language-menu"></div>
-            </div>
-        </footer>
+        <!-- Include footer -->
+        <?php include_once(__DIR__ . '/includes/footer.inc.php'); ?>
         <!-- Back to top js -->
-        <script src="assets/js/back-to-top.js" defer></script>
+        <script src="./assets/js/back-to-top.js" defer></script>
         <!-- jQuery -->
-        <script src="assets/js/jquery-3.6.0.min.js"></script>
+        <script src="./assets/js/jquery-3.6.0.min.js"></script>
         <!-- Font awesome link -->
         <script src="https://kit.fontawesome.com/13ba0ff1d8.js" crossorigin="anonymous" defer></script>
         <!-- Fade-in script -->
-        <script src="assets/js/fade-in.js" defer></script>
-        <!-- Lingumania script -->
-        <script src="assets/js/lingumania.min.js"></script>
-        <!-- Lingumania translation data -->
-        <script src="assets/js/translation-data.js"></script>
+        <script src="./assets/js/fade-in.js" defer></script>
         <!-- Preloader -->
-        <script src="assets/js/preloader.js"></script>
+        <script src="./assets/js/preloader.js"></script>
     </body>
 </html>
