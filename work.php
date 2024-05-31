@@ -121,6 +121,9 @@
                       <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/belcoast-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
                       <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/sousvide-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
                       <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/matemi-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/matisse-and-henri-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/jdb-engineering-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
+                      <div class="image" data-name="Web"><a href="./case/belcoast.php"><span><img src="./assets/media/vinum-et-plura-thumbnail.png" alt="Belcoast Holidays website mockup" loading="lazy"></span></a></div>
                     </div>
                   </div>
                 </div>
