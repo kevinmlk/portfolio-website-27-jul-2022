@@ -206,14 +206,11 @@
                         <div class="work-row reveal fade-bottom">
                             <h4><a href="https://www.lsdevign.be/nl/" target="_blank">lsDevign</a></h4>
                             <div class="work-description">
-                                <h5>UX/UI Designer</h5>
+                                <h5>User Interface Designer</h5>
                                 <h6>Aug 2023</h6>
                                 <ul>
-                                    <li>Bugs opsporen en oplossen op de C-Holidays website en de UX/UI van de site verbeteren.</li>
-                                    <li>Live visuals voor de schermen binnen het hotel aanpassen, vluchtplan bewerken met Adobe designtools.</li>
-                                    <li>Foto's en video's maken van de hotels, vakantiehuizen en sfeer foto's op het strand. Materiaal vervolgens bewerken met Adobe programma's voor op sociale media.</li>
-                                    <li>Rebranding van de C-Holidays website naar Belcoast Holidays.</li>
-                                    <li>SEO van de website verbeteren.</li>
+                                    <li>Creating wireframes, prototypes, style guides, sitemaps and effectively communicating the interaction ideas with the manager.</li>
+                                    <li>Presenting design decisions and handing off the final concept to the developer.</li>
                                 </ul>
                             </div>
                         </div>
@@ -238,11 +235,10 @@
                                 <h5>Web Design Intern</h5>
                                 <h6>Sep 2022 - Jan 2023</h6>
                                 <ul>
-                                    <li>Bugs opsporen en oplossen op de C-Holidays website en de UX/UI van de site verbeteren.</li>
-                                    <li>Live visuals voor de schermen binnen het hotel aanpassen, vluchtplan bewerken met Adobe designtools.</li>
-                                    <li>Foto's en video's maken van de hotels, vakantiehuizen en sfeer foto's op het strand. Materiaal vervolgens bewerken met Adobe programma's voor op sociale media.</li>
-                                    <li>Rebranding van de C-Holidays website naar Belcoast Holidays.</li>
-                                    <li>SEO van de website verbeteren.</li>
+                                    <li>Conducting UX research for a new informative website for Sous Vide Europe.</li>
+                                    <li>Wireframing and prototyping the design and structure of the website.</li>
+                                    <li>Conceptualizing website design ideas and presenting the designs to peers and stakeholders.</li>
+                                    <li>Developing the final concept into a working website after the design stages.</li>
                                 </ul>
                             </div>
                         </div>
