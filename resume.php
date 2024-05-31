@@ -170,15 +170,15 @@
                                 <h5>Associate Degree in Digital Design</h5>
                                 <h6>2021 - 2023</h6>
                                 <p>
-                                    HTML, CSS en JavaScript om front-end websites te ontwikkelen. Interactief leren omgaan met een database in een DBMS-tool door SQL commando’s uit te voeren, de data kopellen en verwerken aan een website of webapplicatie via PHP. WordPress website of een webshop opzetten en beheren.
+                                    HTML, CSS and JavaScript to develop front-end websites. Interactively learn to handle a database in a DBMS tool by executing SQL commands, copying and processing the data to a website or web application via PHP. Setting up and managing WordPress website or a web shop.
                                     <br><br>
-                                    Photoshop en Illustrator om visuele content vorm te geven, basis skills grafisch design. Fotografische begrippen, technieken en het bedienen van de camera. Materiaal vervolgens bewerken in Lightroom CC.
+                                    Photoshop and Illustrator to shape visual content, basic graphic design skills. Photographic concepts, techniques and camera operation. Material then editing in Lightroom CC.
                                     <br><br>
-                                    Basisbegrippen van audio/video en hun werking, bewegende beelden maken volgens de regels van en het beheersen van de camera. Materiaal vervolgens bewerken in Premiere Pro. Technieken voor de creatie, optimalisatie en analyse van nieuwe gebruikerstoepassingen in UX/UI Experience met Adobe XD.
+                                    Basic concepts of audio/video and their operation, creating moving images following the rules of and mastering the camera. Material then editing in Premiere Pro. Techniques for the creation, optimization and analysis of new user applications in UX/UI Experience with Adobe XD.
                                     <br><br>
-                                    Ondersteunende vaardigheden:
+                                    Supporting skills:
                                     <br>
-                                    Communicatie, Design thinking, Human skills, Digitale marketing, Legal & security skills.
+                                    Communication, Design thinking, Human skills, Digital marketing, Legal & security skills.
                                 </p>
                             </div>
                         </div>
@@ -189,13 +189,13 @@
                                 <h5>High School Diploma in Networks & IT</h5>
                                 <h6>2018 - 2020</h6>
                                 <p>
-                                    12 uur toegepaste informatica in de week, de klemtoon lag op het beheren en ontwikkelen van computerapparatuur en programmatuur.
+                                    12 hours of applied computer science during the week, the emphasis was on managing and developing computer hardware and software.
                                     <br><br>
-                                    In het luik beheer van computersystemen en netwerken leerden we over PC hardware, installatie en beheer van Windows 10 OS en Windows Server 2016, Netwerkinfrastructuur en Linux server inleiding.
+                                    In the computer systems and networks management section, we learned about PC hardware, installation and management of Windows 10 OS and Windows Server 2016, Network infrastructure and Linux server introduction.
                                     <br><br>
-                                    In het onderdeel softwareontwikkeling lag de klemtoon op het analyseren en ontwikkelingen van software via Microsoft C# met Visual Studio Community. Gebruikte database voor de applicaties was MySQL.
+                                    In the software development section, the focus was on analyzing and developing software through Microsoft C# with Visual Studio Community. Database used for the applications was MySQL.
                                     <br><br>
-                                    Op vlak van web ontwikkeling kregen we voor de dynamische webpagina's basishandelingen via PHP & MySQL. De statische webpagina's werden gemaakt binnen Notepad++.
+                                    In terms of web development, we were given basic operations for the dynamic web pages through PHP & MySQL. The static web pages were created within Notepad++. 
                                 </p>
                             </div>
                         </div>
