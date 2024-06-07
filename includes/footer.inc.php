@@ -9,6 +9,7 @@
       </ul>
       <h2 class="reveal fade-bottom"><a href="index.php">KM</a></h2>
       <ul class="footer-socials reveal fade-bottom">
+        <li><a href="https://github.com/kevinmlk" target="_blank"><img src="./assets/media/icons/github-coral.png" alt="Github icon" loading="lazy"></a></li>
         <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="./assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
         <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="./assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
       </ul>

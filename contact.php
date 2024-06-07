@@ -83,7 +83,7 @@
 
             <div class="parallax-content">
                 <h1>Contact</h1>
-                <p>Please contact me</p>
+                <p>Get in touch</p>
             </div>
 
             <div></div>
