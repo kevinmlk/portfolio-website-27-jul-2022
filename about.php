@@ -103,24 +103,35 @@
                     </div>  
                 </div>
             </section>
-            <!-- Quote section -->
+            <!-- Vision section-->
             <section class="black-bg">
                 <div class="fw-container">
-                    <h3>Hoe ik begon met coderen.</h3>
-                    <div class="line coral"></div>
-                    <div class="about-description reveal fade-bottom">
-                        <p>
-                            Zoals u al heeft gelezen, ik begon met coderen vooral door mijn passie voor video games. Eenmaal ik ouder werd was het vooral de technologie achter de verschillende soorten games die mij fascineerden. Vlak voor mijn 17de verjaardag zocht ik op YouTube, video's tutorials die uitlegden hoe je een game moest bouwen. Op die manier ben ik op een video belandt waarbij iemand de basics van programmeren uitlegde door een klein programma te bouwen.
-                            <br><br>
-                            De video demonstreerde hoe je met de programmeertaal Java in de Eclipse IDE een minigame kon bouwen waarbij de gebruiker een cijfer moest raden binnen 2 bepaalde grenzen die de gebruiker zelf kon ingeven. Deze minigame heb ik dan zelf volledig nagemaakt waardoor er een passie voor het programmeren is ontstaan.
-                            <br><br>
-                            Na het 4de middelbaar heb ik mijn moeder kunnen overtuigen om me naar een technische school te sturen zodat ik de laatste 2 jaar van het middelbaar meer kon bijleren over softwareontwikkeling en webdevelopment. Bij het afronden van het secundair onderwijs was ik eerst van plan om me te specialiseren in software engineering. Maar na een jaar door te brengen in toegepaste informatica aan de hogeschool Howest, was ik van gedachten veranderd.
-                            <br><br>
-                            Ik wilde een opleiding volgen waarbij ik mijn technische vaardigheden kon combineren met grafische vaardigheden om multimedia-projecten te bouwen die zowel goed functioneren en een aantrekkelijk design hebben. Zo ben ik beland in Creative Digital Design aan de Hogeschool VIVES. Met deze opleiding word ik niet alleen een expert in webdevelopment, maar leer ik ook grafische competenties die mij helpen om unieke designs te bouwen voor mijn webapplicaties.
-                        </p>
-                        <p>
-                            En zo ben ik hier terechtgekomen, ik zit nu in mijn 2de fase (laatste jaar) van mijn opleiding. Deze opleiding heeft mij overtuigd om me te specialiseren in webdevelopment en ik ben van plan om na mijn huidige opleiding een extra opleiding te gaan volgen zodat ik mijn huidige vaardigheden kan aanscherpen.
-                        </p>
+                    <div id="vision-container">
+                        <div class="media-content-small">
+                            <div class="media-content-text">
+                                <h4>Renovating the web</h4>
+                                <p>
+                                    My vision is to transform the digital landscape by helping companies and organizations renew their online presence.
+                                    <br><br>
+                                    I strive to make the web a better and more user-friendly place by providing innovative digital solutions that meet the highest standards of accessibility, security, and ease of use.
+                                </p>
+                                <a href="work/belcoast" class="underline-hover-black">Meer info</a>
+                            </div>
+                            <img src="assets/media/resume.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
+                        </div>
+    
+                        <div class="media-content-small">
+                            <img src="./assets/media/work.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
+                            <div class="media-content-text reveal fade-bottom">
+                                <h4>Passion</h4>
+                                <p>
+                                    I love to apply the latest design trends and technologies, such as motion design, gamification, VR, and AR, to make my work stand out in the rapidly evolving digital world.
+                                    <br><br>
+                                    I am passionate about improving the digital world and want to contribute to a positive and ethical evolution of the web.
+                                </p>
+                                <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -134,37 +145,37 @@
                             - Milton Glaser
                         </p>
                     </div>
-                    <img src="assets/media/milton.jpg" class="image-border-right reveal fade-bottom" alt="Milton Glaser portret foto" loading="lazy">
+                    <img src="./assets/media/milton.jpg" class="image-border-right reveal fade-bottom" alt="Milton Glaser portret foto" loading="lazy">
                 </div>
             </section>
             <!-- Hobbies section -->
             <section class="black-bg">
                 <div class="fw-container">
-                    <h3>Enkele hobby's en passies van mij</h3>
+                    <h3>Some of my hobbies and passions</h3>
                     <div class="line coral"></div>
                     <div id="hobbies-container" class="reveal fade-bottom">
                         <div class="hobby">
-                            <img src="assets/media/icons/cpu-coral.png" alt="PC hardware icon" loading="lazy">
-                            <h4>PC hardware samenstellen</h4>
+                            <img src="./assets/media/icons/cpu-coral.png" alt="PC hardware icon" loading="lazy">
+                            <h4>PC hardware composition</h4>
                         </div>
                         <div class="hobby">
-                            <img src="assets/media/icons/joystick-coral.png" alt="video gaming icon" loading="lazy">
+                            <img src="./assets/media/icons/joystick-coral.png" alt="video gaming icon" loading="lazy">
                             <h4>Video gaming</h4>
                         </div>
                         <div class="hobby">
-                            <img src="assets/media/icons/headphones-coral.png" alt="muziek icon" loading="lazy">
-                            <h4>Muziek produceren</h4>
+                            <img src="./assets/media/icons/headphones-coral.png" alt="muziek icon" loading="lazy">
+                            <h4>Producing music</h4>
                         </div>
                         <div class="hobby">
-                            <img src="assets/media/icons/film-coral.png" alt="films en series icon" loading="lazy">
-                            <h4>Films & series</h4>
+                            <img src="./assets/media/icons/film-coral.png" alt="films en series icon" loading="lazy">
+                            <h4>Movies & series</h4>
                         </div>
                         <div class="hobby">
-                            <img src="assets/media/icons/picture-coral.png" alt="fotografie icon" loading="lazy">
-                            <h4>Fotografie</h4>
+                            <img src="./assets/media/icons/picture-coral.png" alt="fotografie icon" loading="lazy">
+                            <h4>Photography</h4>
                         </div>
                         <div class="hobby">
-                            <img src="assets/media/icons/linux-coral.png" alt="Linux icon" loading="lazy">
+                            <img src="./assets/media/icons/linux-coral.png" alt="Linux icon" loading="lazy">
                             <h4>Linux</h4>
                         </div>
                     </div>
