@@ -612,7 +612,7 @@ textarea {
 
 #flow-logo {
     background: var(--darkgrey);
-    padding: 1.5rem;
+    padding: .75rem;
 }
 
 .fhg-header {

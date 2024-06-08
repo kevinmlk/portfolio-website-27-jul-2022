@@ -181,30 +181,30 @@
                     <div class="line grey"></div>
                     <div id="work-container">
                         <div class="media-content-small">
-                            <img src="./assets/media/Flow_Logo.png" class="image-border-left reveal fade-bottom" alt="Flow Hospitality Group logo" id="flow-logo" loading="lazy">
+                            <img src="./assets/media/jbd-engineering-thumbnail.png" class="image-border-left reveal fade-bottom" alt="Jbd Engineering" loading="lazy">
                             <div class="media-content-text reveal fade-bottom">
+                                <h4>Designing the Jbd Engineering website</h4>
+                                <p>
+                                In the final phase of my associate degree in Digital Design, I completed a semester of workplace training at lsDevign.
+                                    <br><br>
+                                    One of my last tasks there was to create a brand new website for Jbd Engineering, a LED displays rental and repairs business.
+                                </p>
+                                <a href="./case/jbd-engineering.php" class="underline-hover-black">More info</a>
+                            </div>
+                        </div>
+
+                        <div class="media-content-small">
+                            <div class="media-content-text">
                                 <h4>Belcoast Holidays website</h4>
                                 <p>
-                                During my apprenticeship at Flow Hospitality Group, I was tasked with rebranding the existing C-Holidays website to Belcoast Holidays
+                                    During my apprenticeship at Flow Hospitality Group, I was tasked with rebranding the existing C-Holidays website to Belcoast Holidays
                                     <br><br>
                                     The website got a completely new look that looks fresher and conveys more of a vacation feel. A recranet booking module was also linked to the website so you can book a stay right away. 
                                 </p>
                                 <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
                             </div>
+                            <img src="./assets/media/Flow_Logo.png" class="image-border-right reveal fade-bottom" alt="Flow Hospitality Group logo" id="flow-logo" loading="lazy">
                         </div>
-
-                        <!-- <div class="media-content-small">
-                            <div class="media-content-text">
-                                <h4>Belcoast Holidays</h4>
-                                <p>
-                                    Tijdens mijn leerrijke stage bij Flow Hospitality Group had ik de opdracht gekregen om de bestaande C-Holidays website te rebranden naar Belcoast Holidays.
-                                    <br><br>
-                                    De website heefd een compleet nieuwe look gekregen die er frisser uitziet en meer een vakantiegevoel geeft. Er is ook een recranet boekingsmodule aan de website gekoppeld zodat je meteen een verblijf kunt boeken.
-                                </p>
-                                <a href="work/belcoast" class="underline-hover-black">Meer info</a>
-                            </div>
-                            <img src="assets/media/Flow_Logo.png" class="image-border-right" alt="Project 01">
-                        </div> -->
                     </div>
                 </div>
             </section>
