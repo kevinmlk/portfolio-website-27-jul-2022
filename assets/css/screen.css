@@ -38,7 +38,11 @@
 
 .media-text {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+.media-text h3 {
+    font-size: 1.8em;
 }
 
 .image-border-left {
@@ -97,6 +101,19 @@
     color: var(--white) !important;
 }
 
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.services-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
 .question {
     color: var(--dark) !important;
 }
@@ -106,8 +123,8 @@
 }
 
 .service img {
-    width: 100px;
-    margin-bottom: 1.5rem;
+    width: 56px;
+    margin-bottom: 2rem;
 }
 
 .service h4, .question h4 {
@@ -185,9 +202,10 @@
     margin-top: 6rem;
 }
 
-.media-content-small {
+.media-content-small, .media-content-large {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .media-content-text {
@@ -225,6 +243,11 @@
     color: var(--dark) !important;
 }
 
+.work-introduction h2 {
+    text-align: left;
+    font-size: 2.2em;
+}
+
 .work-introduction h3 {
     text-align: left;
 }
@@ -241,6 +264,16 @@
     color: var(--dark);
     text-decoration: underline;
     font-weight: 600;
+}
+
+.case-container {
+    display: flex;
+    flex-direction: column;
+    gap: 7rem;
+}
+
+.mockups-container {
+    padding-bottom: 7rem;
 }
 
 .portfolio-gallery-container {
@@ -384,17 +417,21 @@
     font-size: 2.4em;
     width: 450px;
     text-align: left;
+    line-height: 125%;
 }
 
 .work-row h4 a {
     color: var(--coral);
     text-decoration: underline;
-    text-transform: uppercase;
     transition: ease .5s;
 }
 
 .work-row h4 a:hover {
     color: var(--whitegrey);
+}
+
+.work-experience .work-row:not(:last-child) {
+    margin-bottom: 4rem;
 }
 
 .work-description {
@@ -419,6 +456,9 @@
 
 .work-description ul {
     padding-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
 }
 
 .work-description ul li {
@@ -455,6 +495,14 @@
     border-radius: 5px;
 }
 
+#vision-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+}
+
 #hobbies-container {
     margin-top: 5rem;
     display: flex;
@@ -487,7 +535,7 @@
 }
 
 .hobby img {
-    width: 100px;
+    width: 56px;
 
 }
 
@@ -564,7 +612,7 @@ textarea {
 
 #flow-logo {
     background: var(--darkgrey);
-    padding: 1.5rem;
+    padding: .75rem;
 }
 
 .fhg-header {
@@ -573,4 +621,28 @@ textarea {
 
 .fhg-parallax {
     background-image: url("../media/case-fhg/fhg-parallax.jpg") !important;
+}
+
+.jbd-header {
+    background-image: url("../media/case-jbd/jbd-header.jpg");
+}
+
+.jbd-parallax {
+    background-image: url("../media/case-jbd/jbd-header.jpg");
+}
+
+.sv-header {
+    background-image: url("../media/case-sv/sv-header.jpg");
+}
+
+.matemi-header {
+    background-image: url("../media/case-matemi/matemi-header.jpg");
+}
+
+.vep-header {
+    background-image: url("../media/case-vep/vep-header.jpg");
+}
+
+.mah-header {
+    background-image: url("../media/case-mah/mah-header.jpg");
 }
