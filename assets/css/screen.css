@@ -618,3 +618,23 @@ textarea {
 .fhg-parallax {
     background-image: url("../media/case-fhg/fhg-parallax.jpg") !important;
 }
+
+.jbd-header {
+    background-image: url("../media/case-jbd/jbd-header.jpg");
+}
+
+.sv-header {
+    background-image: url("../media/case-sv/sv-header.jpg");
+}
+
+.matemi-header {
+    background-image: url("../media/case-matemi/matemi-header.jpg");
+}
+
+.vep-header {
+    background-image: url("../media/case-vep/vep-header.jpg");
+}
+
+.mah-header {
+    background-image: url("../media/case-mah/mah-header.jpg");
+}

@@ -11,19 +11,19 @@
             gtag('config', 'G-H55DCDM7PL');
         </script>
          <!-- Tab title -->
-         <title>Portfolio - Internship Flow Hospitality Group | Kevin Malekera</title>
+         <title>Portfolio - Jbd Engineering | Kevin Malekera</title>
          <!-- SEO -->
-         <meta name="title" content="Kevin Malekera - My portfolio - Internship Flow Hospitality Group">
-         <meta name="description" content="During my internship at Flow Hospitality Group, I had to rebrand C-Holidays' website to Belcoast Holidays.">
-         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, c-holidays, belcoast, holidays, zeegalm, west bay, belcoast holidays, flow hospitality group, recranet, tomas sergeant, holiday house, flats, rebrand, rebranding, internship, workplace, ostend, c-hotels, hotel, andromeda, social media, photos, video, web development, graphic design, photography, digital marketing, UX/UI, visuals, adobe, seo, html, css, javascript, php, illustrator, photoshop, indesign, lightroom, after effects, instagram">
+         <meta name="title" content="Kevin Malekera - My portfolio - Internship lsDevign">
+         <meta name="description" content="During my internship at lsDevign, was one of my tasks to design a new website for Jbd Engineering.">
+         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, Jbd Engineering, lsDevign, internship, workplace, UX/UI, adobe">
          <meta name="robots" content="index, follow">
          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
          <meta name="author" content="Kevin Malekera">
          <meta name="viewport" content="width=device-width, initial-scale=1">
          <!-- Language meta tags -->
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/belcoast.php">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/belcoast.php">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/belcoast.php">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/jbd-engineering.php">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/jbd-engineering.php">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/jbd-engineering.php">
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="./../assets/media/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="./../assets/media/favicon/favicon-32x32.png">
@@ -49,7 +49,7 @@
         <!-- Inlcude preloader -->
         <?php include_once(__DIR__ . '/../includes/preloader.inc.php'); ?>
         <!-- Header -->
-        <header class="overlay alt-header fhg-header">
+        <header class="overlay alt-header jbd-header">
             <div id="navigation" class="fw-container">
                 <h2><a href="./../index.php" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
                 <h2><a href="./../index.php" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
@@ -82,8 +82,8 @@
             </div>
 
             <div class="parallax-content">
-                <h1>Internship FHG</h1>
-                <p>During my associate degree studies, I did 5 months of on-the-job training at <b>Flow Hospitality Group</b> in Ostend.</p>
+                <h1>Jbd Engineering</h1>
+                <p>During my associate degree studies, I did 5 months of workplace training at <b>lsDevign</b>.</p>
             </div>
 
             <div></div>
@@ -94,12 +94,11 @@
             <section class="white-bg">
                 <div class="fw-container work-introduction">
                     <div class="reveal fade-bottom">
-                        <h3>Experience workplace learning at Flow Hospitality Group</h3>
+                        <h3>Experience workplace learning at lsDevign</h3>
                         <div class="line grey"></div>
                         <p>
-                            For the 1st phase of my associate degree program in Digital Design, I had to spend 21 days converting what I had seen at school into a real professional work environment.
-                            <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, my supervisor, gave me the opportunity to try to solve all kinds of challenging tasks independently in a professional working environment as a digital design intern. These instructive tasks sharpened both my graphic and technical skills. 
-                            One of my main tasks was the rebranding of C-Holidays to Belcoast Holidays.
+                          For the last phase of my associate degree program in Digital Design, I had to spend a whole semester applying what I had learned at school in a real professional work environment. Laurens Spaey, CEO of
+                          <a href="https://www.lsdevign.be/en/" target="_blank">lsDevign</a> and my supervisor, gave me the opportunity to design multiple websites for a diverse range of clients, each with different needs and tastes. One of my design tasks was creating a brand new website for Jbd Engineering.
                         </p>
                     </div>
                 </div>

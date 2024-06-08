@@ -49,7 +49,7 @@
         <!-- Inlcude preloader -->
         <?php include_once(__DIR__ . '/../includes/preloader.inc.php'); ?>
         <!-- Header -->
-        <header class="overlay alt-header fhg-header">
+        <header class="overlay alt-header sv-header">
             <div id="navigation" class="fw-container">
                 <h2><a href="./../index.php" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
                 <h2><a href="./../index.php" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
