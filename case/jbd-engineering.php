@@ -172,9 +172,8 @@
                                 Key features to be included in the design were clear navigation, an overview of all available services, rental packages and pricing details, a photo gallery showcasing LED displays, information on repair services, testimonials, contact details, and a FAQ section.
                                 </p>
                             </div>
-                            <img src="../assets/media/case-fhg/image-discovery.jpg" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="../assets/media/case-jbd/discovery-jbd.jpg" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                         </div>
-
                     </div>
                 </div>
             </section>
@@ -185,11 +184,10 @@
                     <div id="vision-container">
                         <div class="work-introduction">
                             <div class="reveal fade-bottom">
-                                <h2>Design, style guide and prototyping</h2>
-                                <p>
-                                The goal of this phase was to determine the information architecture of the website by designing a sitemap and creating a style guide with colors, typography, and the logo. This was followed by designing a mockup to visualize the user interface and converting it into a fully functional prototype to test the user experience.
-                                    <br><br>
-                                    Since we were rebranding a website built using a template, many design tasks were not required. The information architecture didn't change much; I only needed to apply the new branding and add a few pages. All of this was done directly by modifying the template itself, so it wasn't necessary to design and build a prototype.
+                                <h2>Analyze market, gther visual inspiration, and begin designing</h2>
+                                  <p>
+                                  After analyzing competitors and their websites, I started creating a moodboard with design inspiration that aligned with the Jbd Engineering brand.
+                                  With the logo and website structure already established, my focus was on enhancing the information architecture and creating a style guide encompassing colors, typography, and the logo.
                                 </p>
                             </div>
                         </div>
@@ -197,31 +195,54 @@
                         <div class="media-text">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Applying the new branding design</h3>
+                                <h3 class="tag-line">Style guide based on the logo</h3>
                                 <p>
-                                Because the new brand guide was provided, I didn't had to redesign the entire brand my self. It was also not necessary to create mockups to visualize how the website would look like, because I could directly apply this on the website self. 
+                                I decided to base the style guide on the colors and typography of the Jbd Engineering logo. For typography, I chose Roboto as the primary font and Barlow as the secondary font, as they both complemented the font used in the logo.
                                 </p>
                                 <p>
-                                The sitemap hadn't changed much, I only need to add a few pages for the Zeegalm and West Bay holiday domains. The webpages were new so I had to structre the pages with some available HTML elements from the existing template. 
+                                Regarding colors, I opted to derive them from the Jbd Engineering logo, with slight adjustments to achieve a sleek and modern look for the website. Thus, I selected #080705 (Black) and #FFFDFD for the background and text, #2708A0 (Polynesian blue), #5FAD56 (Mantis), and #D00000 (Engineering orange) as accent colors to evoke the essence of LED displays on the website.
                                 </p>
                             </div>
-                            <img src="./../assets/media/case-fhg/image-design-1.jpg" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="./../assets/media/case-jbd/image-design-1.png" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                         </div>
 
                         <div class="media-text">
-                        <img src="./../assets/media/case-fhg/image-design-2.jpg" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                        <img src="./../assets/media/case-jbd/image-design-2.png" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Prototyping and building the website</h3>
+                                <h3 class="tag-line">Hi-fi mockup proposal</h3>
                                 <p>
-                                By directly applying the new design on the website we could immediately see how the website would look like and function. This made it easy to test and experiment different approaches and adjust the design to the users needs.
+                                Following the creation of the style guide, it was time to develop a homepage proposal for the website. Using the sitemap and the style guide as my guide, I began crafting the homepage in Adobe XD.
                                 </p>
                                 <p>
-                                After a few iterations, we were satisfied with the final design and could now translate the content so that it is available in multiple languages.  
+                                Upon completing the homepage design, I shared the mockup with my supervisor for feedback. While there were some design adjustments suggested, overall, my supervisor was pleased with the proposal. Consequently, I was given the green light to proceed with refining the other pages while making necessary design adjustments.
                                 </p>
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class="mockups-container">
+                  <h3>Mockup screens</h3>
+                  <div class="line coral"></div>
+                  <div class="portfolio-gallery-container reveal fade-bottom">
+                    <!-- Portfolio navigation -->
+                    <!-- <div class="items">
+                      <span class="item active" data-name="all">All</span>
+                      <span class="item" data-name="Photo">Photos</span>
+                      <span class="item" data-name="Video">Video</span>
+                    </div> -->
+                    <!-- Portfolio images -->
+                    <div class="gallery">
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/" target="_blank"><span><img src="../assets/media/case-jbd/jbd-home.png" alt="Jbd Engineering homepage" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/2ca93483-b026-4dfc-9a4d-86fa40eb5d94" target="_blank"><span><img src="../assets/media/case-jbd/jbd-rentals.png" alt="Jbd Engineering rentals page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/e79f0185-6c9b-4412-b83d-a63816b99c6c" target="_blank"><span><img src="../assets/media/case-jbd/jbd-repairs.png" alt="Jbd Engineering reparis page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/4639eee0-3a89-4c05-b276-0f1328dc8a6c" target="_blank"><span><img src="../assets/media/case-jbd/jbd-about.png" alt="Jbd Engineering about page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/c880f3b0-15b4-4de5-97b3-ece93a8ee6ee" target="_blank"><span><img src="../assets/media/case-jbd/jbd-works.png" alt="Jbd Engineering works page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/1a99419b-f229-47f1-bb70-3e347dd24c7f" target="_blank"><span><img src="../assets/media/case-jbd/jbd-faq.png" alt="Jbd Engineering faq page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/2d86ba4a-b36b-4aa6-9f24-6a928ee5f50e" target="_blank"><span><img src="../assets/media/case-jbd/jbd-contact.png" alt="Jbd Engineering contact page" loading="lazy"></span></a></div>
+                    </div>
+                  </div>
                 </div>
             </section>
 
@@ -234,21 +255,21 @@
                         <div class="media-text">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Few minor adjustments, SEO optimization, and ready for deployment.</h3>
+                                <h3 class="tag-line">Final adjustments and ready for production</h3>
                                 <p>
-                                Since we were modifying a template, we could easily combine the design and development phases into one, which also made it easier to experiment, test, and iterate.
+                                Once the final feedback was applied to the mockup, the design was ready to be transferred to the developer for coding.
                                 </p>
                                 <p>
-                                Once all the pages were designed, built, tested, translated, and the minor feedback from the project owner was applied, the website was ready for deployment.
+                                At lsDevign, all websites are built using a custom WordPress theme, allowing us to create fully customized designs for clients and connect the front-end with the back-end using plugins.
                                 </p>
                                 <p>
-                                By making adjustments to an older codebase, changing the complete design, and integrating a bookings module, this was my first big project, which I am very proud of!
+                                Some additional adjustments were made to the design before deployment by the developer to better suit the client's needs. That said, I am very happy and proud of this project.
                                 </p>
                                 <p>
-                                I learned a lot during my time at Flow Hospitality Group, and I am forever grateful for the trust and opportunity they gave me. Belcoast Holidays is now online, and you can see the results live for yourself.
+                                I greatly appreciated the opportunity and the freedom given for this project. The Jbd Engineering website is now live, and you can check it out for yourself.
                                 </p>
                             </div>
-                            <img src="./../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="./../assets/media/case-jbd/image-discovery.png" class="image-border-right reveal fade-bottom" alt="Jbd Engineering homepage" loading="lazy">
                         </div>
 
                     </div>
@@ -256,49 +277,24 @@
             </section>
 
             <!-- Foto parallax section -->
-            <div class="parallax-image fhg-parallax">
-                <h3>Visit the new website<br> of Belcoast Holidays</h3>
-                <a href="https://belcoastholidays.be/nl/" target="_blank" class="button-coral">Visit website</a>
+            <div class="parallax-image jbd-parallax">
+                <h3>Visit the website<br> of Jbd Engineering</h3>
+                <a href="https://jbdengineering.be/nl/" target="_blank" class="button-coral">Visit website</a>
             </div>
             <!-- Skills summary section -->
             <section class="white-bg">
                 <div class="fw-container skills-section">
-                    <h3>Skills used during my internship</h3>
+                    <h3>Skills used in the project</h3>
                     <div class="line grey"></div>
                     <ul class="skills-container reveal fade-bottom">
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>JavaScript</li>
-                        <li>PHP</li>
-                        <li>Adobe Illustrator</li>
+                        <li>Adobe XD</li>
                         <li>Adobe Photoshop</li>
-                        <li>Adobe InDesign</li>
-                        <li>Adobe Lightroom CC</li>
-                        <li>Adobe After Effects</li>
-                        <li>Photography & video</li>
+                        <li>Adobe Illustrator</li>
+                        <li>Web design</li>
+                        <li>User interface design</li>
+                        <li>Information Architecture</li>
+                        <li>Graphic design</li>
                     </ul>
-                </div>
-            </section>
-            <!-- Work gallery section -->
-            <section class="black-bg">
-                <div class="fw-container">
-                  <h3>Other published assignments</h3>
-                  <div class="line coral"></div>
-                  <div class="portfolio-gallery-container reveal fade-bottom">
-                    <!-- Portfolio navigation -->
-                    <div class="items">
-                      <span class="item active" data-name="all">All</span>
-                      <span class="item" data-name="Photo">Photos</span>
-                      <!-- <span class="item" data-name="Video">Video</span> -->
-                    </div>
-                    <!-- Portfolio images -->
-                    <div class="gallery">
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/Cdh8y7Fob1-/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-1.jpg" alt="chotelsbelgium sociale media sfeer foto strand" loading="lazy"></span></a></div>
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/Ce1Hhl4ot3d/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-2.jpg" alt="chotelsbelgium sociale media sfeer foto strand" loading="lazy"></span></a></div>
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/CddgDb-o2ie/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-3.jpg" alt="chotelsbelgium sociale media sfeer foto strand" loading="lazy"></span></a></div>
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/CeA0gzWI4f-/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-4.jpg" alt="chotelsbelgium sociale media hotel excelsior foto" loading="lazy"></span></a></div>
-                    </div>
-                  </div>
                 </div>
             </section>
             <!-- Include parallax -->

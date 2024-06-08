@@ -272,6 +272,10 @@
     gap: 7rem;
 }
 
+.mockups-container {
+    padding-bottom: 7rem;
+}
+
 .portfolio-gallery-container {
     margin-top: 4rem;
     display: flex;
@@ -620,6 +624,10 @@ textarea {
 }
 
 .jbd-header {
+    background-image: url("../media/case-jbd/jbd-header.jpg");
+}
+
+.jbd-parallax {
     background-image: url("../media/case-jbd/jbd-header.jpg");
 }
 
