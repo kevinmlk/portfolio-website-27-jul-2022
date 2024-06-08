@@ -104,6 +104,12 @@
     justify-content: center;
 }
 
+.services-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
 .question {
     color: var(--dark) !important;
 }

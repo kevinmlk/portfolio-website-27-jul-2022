@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
@@ -11,38 +11,32 @@
             gtag('config', 'G-H55DCDM7PL');
         </script>
          <!-- Tab title -->
-         <title>Portfolio - Stage Flow Hospitality Group | Kevin Malekera</title>
+         <title>Portfolio - Internship Flow Hospitality Group | Kevin Malekera</title>
          <!-- SEO -->
-         <meta name="title" content="Kevin Malekera - Mijn portfolio - Stage Flow Hospitality Group">
-         <meta name="description" content="Tijdens mijn stage bij Flow Hospitality Group moest ik de website van C-Holidays rebranden naar Belcoast Holidays.">
-         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, realisaties, realisatie, werk, werken, web, case, website, c-holidays, belcoast, holidays, zeegalm, west bay, belcoast holidays, flow hospitality group, recranet, tomas sergeant, vakantiehuizen, appartementen, rebranden, rebranding, stage, werkplek, oostende, c-hotels, hotel, andromeda, sociale media, foto's, vidoe, web development, grafisch design, fotografie, digitale marketing, UX/UI, visuals, adobe, seo, html, css, javascript, php, illustrator, photoshop, indesign, lightroom, after effects, instagram">
+         <meta name="title" content="Kevin Malekera - My portfolio - Internship Flow Hospitality Group">
+         <meta name="description" content="During my internship at Flow Hospitality Group, I had to rebrand C-Holidays' website to Belcoast Holidays.">
+         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, c-holidays, belcoast, holidays, zeegalm, west bay, belcoast holidays, flow hospitality group, recranet, tomas sergeant, holiday house, flats, rebrand, rebranding, internship, workplace, ostend, c-hotels, hotel, andromeda, social media, photos, video, web development, graphic design, photography, digital marketing, UX/UI, visuals, adobe, seo, html, css, javascript, php, illustrator, photoshop, indesign, lightroom, after effects, instagram">
          <meta name="robots" content="index, follow">
          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
          <meta name="author" content="Kevin Malekera">
          <meta name="viewport" content="width=device-width, initial-scale=1">
          <!-- Language meta tags -->
-        <link rel="alternate" hreflang="nl-nl" href="https://kevinmalekera.be/case/belcoast">
-        <link rel="alternate" hreflang="nl-be" href="https://kevinmalekera.be/case/belcoast">
-        <link rel="alternate" hreflang="nl" href="https://kevinmalekera.be/case/belcoast">
-        <link rel="alternate" hreflang="fr-fr" href="https://kevinmalekera.be/case/belcoast?lang=fr">
-        <link rel="alternate" hreflang="fr-be" href="https://kevinmalekera.be/case/belcoast?lang=fr">
-        <link rel="alternate" hreflang="fr" href="https://kevinmalekera.be/case/belcoast?lang=fr">
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/belcoast?lang=en">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/belcoast?lang=en">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/belcoast?lang=en">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/belcoast.php">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/belcoast.php">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/belcoast.php">
         <!-- Favicon -->
-        <link rel="apple-touch-icon" sizes="180x180" href="../assets/media/favicon/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="../assets/media/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="../assets/media/favicon/favicon-16x16.png">
-        <link rel="manifest" href="../assets/media/favicon/site.webmanifest">
-        <link rel="mask-icon" href="../assets/media/favicon/safari-pinned-tab.svg" color="#000000">
+        <link rel="apple-touch-icon" sizes="180x180" href="./../assets/media/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./../assets/media/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="./../assets/media/favicon/favicon-16x16.png">
+        <link rel="manifest" href="./../assets/media/favicon/site.webmanifest">
+        <link rel="mask-icon" href="./../assets/media/favicon/safari-pinned-tab.svg" color="#000000">
         <meta name="msapplication-TileColor" content="#000000">
         <meta name="theme-color" content="#ffffff">
         <!-- CSS files -->
-        <link rel="stylesheet" href="../assets/css/reset.css">
-        <link rel="stylesheet" href="../assets/css/template.css">
-        <link rel="stylesheet" href="../assets/css/screen.css">
-        <link rel="stylesheet" href="../assets/css/responsive.css">
+        <link rel="stylesheet" href="./../assets/css/reset.css">
+        <link rel="stylesheet" href="./../assets/css/template.css">
+        <link rel="stylesheet" href="./../assets/css/screen.css">
+        <link rel="stylesheet" href="./../assets/css/responsive.css">
         <!-- Google fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,28 +46,13 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
     <body>
-        <!-- Preloader -->
-        <div class="pre-loader">
-            <div class="sk-fading-circle">
-                <div class="sk-circle1 sk-circle"></div>
-                <div class="sk-circle2 sk-circle"></div>
-                <div class="sk-circle3 sk-circle"></div>
-                <div class="sk-circle4 sk-circle"></div>
-                <div class="sk-circle5 sk-circle"></div>
-                <div class="sk-circle6 sk-circle"></div>
-                <div class="sk-circle7 sk-circle"></div>
-                <div class="sk-circle8 sk-circle"></div>
-                <div class="sk-circle9 sk-circle"></div>
-                <div class="sk-circle10 sk-circle"></div>
-                <div class="sk-circle11 sk-circle"></div>
-                <div class="sk-circle12 sk-circle"></div>
-            </div>
-        </div>
+        <!-- Inlcude preloader -->
+        <?php include_once(__DIR__ . '/../includes/preloader.inc.php'); ?>
         <!-- Header -->
         <header class="overlay alt-header fhg-header">
             <div id="navigation" class="fw-container">
-                <h2><a href="../" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
-                <h2><a href="../" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
+                <h2><a href="./../index.php" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
+                <h2><a href="./../index.php" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
                 <!-- Hamburger menu -->
                 <div class="menu-wrap">
                     <input type="checkbox" class="toggler">
@@ -82,10 +61,10 @@
                         <div>
                             <div>
                                 <ul>
-                                    <li><a href="../work" class="underline-hover-white">Realisaties</a></li>
-                                    <li><a href="../resume" class="underline-hover-white">Curriculum vitae</a></li>
-                                    <li><a href="../about" class="underline-hover-white">Over mij</a></li>
-                                    <li><a href="../contact" class="underline-hover-white">Contact</a></li>
+                                    <li><a href="./../work.php" class="underline-hover-white">Work</a></li>
+                                    <li><a href="./../resume.php" class="underline-hover-white">Resume</a></li>
+                                    <li><a href="./../about.php" class="underline-hover-white">About</a></li>
+                                    <li><a href="./../contact.php" class="underline-hover-white">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,17 +73,17 @@
                 <!-- Main navigation -->
                 <nav>
                     <ul>
-                        <li><a href="../work" class="underline-hover-white">Realisaties</a></li>
-                        <li><a href="../resume" class="underline-hover-white">Curriculum vitae</a></li>
-                        <li><a href="../about" class="underline-hover-white">Over mij</a></li>
-                        <li><a href="../contact" class="underline-hover-white">Contact</a></li>
+                        <li><a href="./../work.php" class="underline-hover-white">Work</a></li>
+                        <li><a href="./../resume.php" class="underline-hover-white">Resume</a></li>
+                        <li><a href="./../about.php" class="underline-hover-white">About</a></li>
+                        <li><a href="./../contact.php" class="underline-hover-white">Contact</a></li>
                     </ul>
                 </nav>
             </div>
 
             <div class="parallax-content">
-                <h1>Stage FHG</h1>
-                <p>Tijdens mijn graduaatsopleiding heb ik 5 maanden werkplekleren gedaan bij <b>Flow Hospitality Group</b> in Oostende.</p>
+                <h1>Internship FHG</h1>
+                <p>During my associate degree studies, I did 5 months of on-the-job training at <b>Flow Hospitality Group</b> in Ostend.</p>
             </div>
 
             <div></div>
@@ -115,45 +94,46 @@
             <section class="white-bg">
                 <div class="fw-container work-introduction">
                     <div class="reveal fade-bottom">
-                        <h3>Ervaring werkplekleren bij Flow Hospitality Group</h3>
+                        <h3>Experience workplace learning at Flow Hospitality Group</h3>
                         <div class="line grey"></div>
                         <p>
-                            Voor de 1ste fase van mijn graduaatsopleiding in Creative Digital Design moest ik gedurende 21 dagen de geziene leerstof van op de schoolbanken omzetten in een echte professionele werkomgeving.
-                            <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, mijn stagementor, heeft aan mij de kans gegeven om als stagiair digital design allerlei uitdagende taken zelfstandig proberen op te lossen in een professionele werkomgeving. Deze leerrijke taken hebben zowel mijn grafische als technische vaardigheden aangescherpt.
+                            For the 1st phase of my associate degree program in Digital Design, I had to spend 21 days converting what I had seen at school into a real professional work environment.
+                            <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, my supervisor, gave me the opportunity to try to solve all kinds of challenging tasks independently in a professional working environment as a digital design intern. These instructive tasks sharpened both my graphic and technical skills. 
                         </p>
                     </div>
                 </div>
             </section>
-            <!-- Services section -->
+            <!-- Project information section -->
             <section class="black-bg">
                 <div class="fw-container">
-                    <h3>Verschillende diensten die aan bod kwamen tijdens mijn stage</h3>
+                    <h3>Project information</h3>
                     <div class="line coral"></div>
                     <div id="services-container" class="reveal fade-bottom">
                         <div class="service">
-                            <img src="../assets/media/icons/website-coral.png" alt="website icon" loading="lazy">
-                            <h4>Web development</h4>
-                            <p>
-                                Bugs opsporen en oplossen op de <a href="https://c-holidays.be/nl/" target="_blank">C-Holidays</a> website en de UX/UI verbeteren. Website van C-Holidays rebranden naar Belcoast Holidays.
-                            </p>
+                            <img src="./../assets/media/icons/website-coral.png" alt="website icon" loading="lazy">
+                            <h4>Services</h4>
+                            <ul class="services-list">
+                                <li>Web development</li>
+                                <li>Rebranding</li>
+                            </ul>
                         </div>
                         <div class="service">
-                            <img src="../assets/media/icons/brush-coral.png" alt="penseel icon" loading="lazy">
-                            <h4>Grafisch design</h4>
+                            <img src="./../assets/media/icons/brush-coral.png" alt="penseel icon" loading="lazy">
+                            <h4>Challenges</h4>
                             <p>
                                 Live visuals voor de schermen binnen het hotel aanpassen met Adobe Photoshop, vluchtplan bewerken met Adobe Illustrator en Adobe InDesign.
                             </p>
                         </div>
                         <div class="service">
-                            <img src="../assets/media/icons/picture-coral.png" alt="afbeelding icon" loading="lazy">
-                            <h4>Fotografie & video</h4>
+                            <img src="./../assets/media/icons/picture-coral.png" alt="afbeelding icon" loading="lazy">
+                            <h4>Methodology</h4>
                             <p>
                                 Foto's en video's maken van de hotels, vakantiehuizen en sfeer foto's maken op het strand. Materiaal vervolgens bewerken in Adobe Lightroom en Adobe Premiere Pro.
                             </p>
                         </div>
                         <div class="service">
-                            <img src="../assets/media/icons/seo-coral.png" alt="seo icon" loading="lazy">
-                            <h4>Digitale marketing</h4>
+                            <img src="./../assets/media/icons/seo-coral.png" alt="seo icon" loading="lazy">
+                            <h4>Results</h4>
                             <p>
                                 SEO optimalisatie van de Belcoast Holidays website verbeteren. Sfeer foto's maken en bewerken voor op de sociale media van <a href="https://www.instagram.com/chotelsbelgium/" target="_blank">chotelsbelgium</a>.
                             </p>
@@ -161,9 +141,22 @@
                     </div>
                 </div>
             </section>
+            
             <!-- Back history section -->
             <section class="white-bg">
-                <div class="fw-container media-text">
+                <!--  section -->
+            <div class="fw-container">
+                <div class="work-introduction">
+                    <div class="reveal fade-bottom">
+                        <h3>1. Research & discovery</h3>
+                        <div class="line grey"></div>
+                        <p>
+                            For the 1st phase of my associate degree program in Digital Design, I had to spend 21 days converting what I had seen at school into a real professional work environment.
+                            <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, my supervisor, gave me the opportunity to try to solve all kinds of challenging tasks independently in a professional working environment as a digital design intern. These instructive tasks sharpened both my graphic and technical skills. 
+                        </p>
+                    </div>
+                </div>
+                <div class="media-text">
                     <!-- Media content -->
                     <div class="media-content reveal fade-bottom">
                         <h3 class="tag-line">Rebranding website C-Holidays naar Belcoast Holidays.</h3>
@@ -177,6 +170,8 @@
                     </div>
                     <img src="../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                 </div>
+            </div>
+                
             </section>
             <!-- Foto parallax section -->
             <div class="parallax-image fhg-parallax">
@@ -224,34 +219,11 @@
                   </div>
                 </div>
             </section>
-            <!-- Foto parallax section -->
-            <div class="parallax-image">
-                <h3>Geïnspireerd?<br>Huur een expert voor uw project</h3>
-                <a href="../contact" class="button-coral">Contacteer mij</a>
-            </div>
+            <!-- Include parallax -->
+            <?php include_once(__DIR__ . '/../includes/parallax-deep.inc.php'); ?>
         </main>
-        <!-- Return to Top -->
-        <a href="javascript:" id="return-to-top"><i class="fa-solid fa-angles-up"></i></a>
-        <!-- Footer -->
-        <footer>
-            <div class="fw-container footer-content">
-                <ul class="footer-contact reveal fade-bottom">
-                    <li><a href="mailto:kevin.malekera@student.vives.be" class="mail">kevin.malekera@student.vives.be</a></li>
-                    <li><a href="callto:+32468213155" class="phone">+32 468 21 31 55</a></li>
-                </ul>
-                <h2 class="reveal fade-bottom"><a href="../">KM</a></h2>
-                <ul class="footer-socials reveal fade-bottom">
-                    <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="../assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
-                    <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="../assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
-                </ul>
-            </div>
-            <!-- Copyright -->
-            <div class="footer-copyright">
-                <p>&copy; Kevin Malekera. All rights reserved</p>
-                <!-- Language menu -->
-                <div id="language-menu"></div>
-            </div>
-        </footer>
+        <!-- Include footer -->
+        <?php include_once(__DIR__ . '/../includes/footer-alt.inc.php'); ?>
         <!-- Portfolio gallery -->
         <script src="../assets/js/portfolio-gallery.js" defer></script>
         <!-- Back to top js -->
@@ -262,10 +234,6 @@
         <script src="../assets/js/jquery-3.6.0.min.js"></script>
         <!-- Fade-in script -->
         <script src="../assets/js/fade-in.js" defer></script>
-        <!-- Lingumania script -->
-        <script src="../assets/js/lingumania.min.js"></script>
-        <!-- Lingumania translation data -->
-        <script src="../assets/js/translation-data.js"></script>
         <!-- Preloader -->
         <script src="../assets/js/preloader.js"></script>
     </body>
