@@ -307,16 +307,16 @@
         <!-- Include footer -->
         <?php include_once(__DIR__ . '/../includes/footer-alt.inc.php'); ?>
         <!-- Portfolio gallery -->
-        <script src="../assets/js/portfolio-gallery.js" defer></script>
+        <script src="./../assets/js/portfolio-gallery.js" defer></script>
         <!-- Back to top js -->
-        <script src="../assets/js/back-to-top.js" defer></script>
+        <script src="./../assets/js/back-to-top.js" defer></script>
         <!-- Font awesome link -->
         <script src="https://kit.fontawesome.com/13ba0ff1d8.js" crossorigin="anonymous" defer></script>
         <!-- jQuery script -->
-        <script src="../assets/js/jquery-3.6.0.min.js"></script>
+        <script src="./../assets/js/jquery-3.6.0.min.js"></script>
         <!-- Fade-in script -->
-        <script src="../assets/js/fade-in.js" defer></script>
+        <script src="./../assets/js/fade-in.js" defer></script>
         <!-- Preloader -->
-        <script src="../assets/js/preloader.js"></script>
+        <script src="./../assets/js/preloader.js"></script>
     </body>
 </html>

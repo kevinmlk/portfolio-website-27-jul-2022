@@ -84,7 +84,7 @@
             <div class="parallax-content">
                 <h1>My resume</h1>
                 <p>An in-depth overview of my skills, education and professional experience</p>
-                <a href="./assets/media/resume-EN.pdf" class="button-coral" download="resume-KevinMalekera.pdf">Download CV</a>
+                <!-- <a href="./assets/media/resume-EN.pdf" class="button-coral" download="resume-KevinMalekera.pdf">Download CV</a> -->
             </div>
 
             <div></div>
@@ -107,7 +107,9 @@
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>JavaScript</li>
+                        <li>React Native</li>
                         <li>WordPress</li>
+                        <li>CraftCMS</li>
                         <li>MySQL</li>
                         <li>PHP</li>
                         <li>C#</li>
@@ -116,6 +118,8 @@
                         <li>Adobe InDesign</li>
                         <li>Adobe Premiere Pro</li>
                         <li>Adobe Lightroom CC</li>
+                        <li>Figma</li>
+                        <li>useberry</li>
                     </ul>
                     <!-- Soft skills -->
                     <ul class="skills-container reveal fade-bottom" id="soft-skills">
