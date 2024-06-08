@@ -90,7 +90,7 @@
         </header>
         <!-- Main content -->
         <main>
-            <!-- Work introduction section -->
+            <!-- Introduction section -->
             <section class="white-bg">
                 <div class="fw-container work-introduction">
                     <div class="reveal fade-bottom">
@@ -111,29 +111,28 @@
                     <div id="services-container" class="reveal fade-bottom">
                         <div class="service">
                             <img src="./../assets/media/icons/website-coral.png" alt="website icon" loading="lazy">
-                            <h4>Services</h4>
-                            <ul class="services-list">
-                                <li>Web development</li>
-                                <li>Rebranding</li>
-                            </ul>
+                            <h4>Challenge</h4>
+                            <p>
+                                Owner of C-Holidays wants to rebrand the C-Holidays website to Belcoast Holidays while also integrating a new bookings module.
+                            </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/brush-coral.png" alt="penseel icon" loading="lazy">
-                            <h4>Challenges</h4>
+                            <h4>Concept</h4>
                             <p>
-                                Live visuals voor de schermen binnen het hotel aanpassen met Adobe Photoshop, vluchtplan bewerken met Adobe Illustrator en Adobe InDesign.
+                                A new website for Belcoast Holidays where clients can directly book a holiday house or apartment using an integrated bookings module.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/picture-coral.png" alt="afbeelding icon" loading="lazy">
-                            <h4>Methodology</h4>
+                            <h4>Solution</h4>
                             <p>
-                                Foto's en video's maken van de hotels, vakantiehuizen en sfeer foto's maken op het strand. Materiaal vervolgens bewerken in Adobe Lightroom en Adobe Premiere Pro.
+                                First 
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/seo-coral.png" alt="seo icon" loading="lazy">
-                            <h4>Results</h4>
+                            <h4>Outcome</h4>
                             <p>
                                 SEO optimalisatie van de Belcoast Holidays website verbeteren. Sfeer foto's maken en bewerken voor op de sociale media van <a href="https://www.instagram.com/chotelsbelgium/" target="_blank">chotelsbelgium</a>.
                             </p>
@@ -142,14 +141,14 @@
                 </div>
             </section>
             
-            <!-- Back history section -->
+            <!-- Discovery and research section -->
             <section class="white-bg">
                 <!--  section -->
                 <div class="fw-container">
                     <div class="case-container">
                         <div class="work-introduction">
                             <div class="reveal fade-bottom">
-                                <h2>1. Straightforward strategy</h2>
+                                <h2>Straightforward strategy</h2>
                                 <p>
                                     After my supervisor came out of a meeting with the owner of Belcoast Holidays (formerly C-Holidays), he gave me a short briefing and a document listing the specific changes I needed to make to the website. Otherwise, I was given the freedom to experiment with the provided colors and layout myself.
                                     <br><br>
@@ -177,17 +176,91 @@
 
                     </div>
                 </div>
-                
             </section>
+
+            <!-- Design section-->
+            <section class="black-bg">
+                <div class="fw-container">
+                    <div id="vision-container">
+                        <div class="work-introduction">
+                            <div class="reveal fade-bottom">
+                                <h2>Design, style guide and prototyping</h2>
+                                <p>
+                                The goal of this phase was to determine the information architecture of the website by designing a sitemap and creating a style guide with colors, typography, and the logo. This was followed by designing a mockup to visualize the user interface and converting it into a fully functional prototype to test the user experience.
+                                    <br><br>
+                                    Since we were rebranding a website built using a template, many design tasks were not required. The information architecture didn't change much; I only needed to apply the new branding and add a few pages. All of this was done directly by modifying the template itself, so it wasn't necessary to design and build a prototype.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="media-content-small">
+                            <div class="media-content-text">
+                                <h4>Applying the new branding design</h4>
+                                <p>
+                                    Because the new brand guide was provided, I didn't had to redesign the entire brand my self. It was also not necessary to create mockups to visualize how the website would look like, because I could directly apply this on the website self.
+                                    <br><br>
+                                    The sitemap hadn't changed much, I only need to add a few pages for the Zeegalm and West Bay holiday domains. The webpages were new so I had to structre the pages with some available HTML elements from the existing template.
+                                </p>
+                                <a href="work/belcoast" class="underline-hover-black">Meer info</a>
+                            </div>
+                            <img src="./../assets/media/resume.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
+                        </div>
+    
+                        <div class="media-content-small">
+                            <img src="./../assets/media/work.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
+                            <div class="media-content-text reveal fade-bottom">
+                                <h4>Prototyping and building the website</h4>
+                                <p>
+                                    By directly applying the new design on the website we could immediately see how the website would look like and function. This made it easy to test and experiment different approaches and adjust the design to the users needs.
+                                    <br><br>
+                                    After a few iterations, we were satisfied with the final design and could now translate the content so that it is available in multiple languages.
+                                </p>
+                                <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results section -->
+            <section class="white-bg">
+                <!--  section -->
+                <div class="fw-container">
+                    <div class="case-container">
+    
+                        <div class="media-text">
+                            <!-- Media content -->
+                            <div class="media-content reveal fade-bottom">
+                                <h3 class="tag-line">Few minor adjustments, SEO optimization, and ready for deployment.</h3>
+                                <p>
+                                Since we were modifying a template, we could easily combine the design and development phases into one, which also made it easier to experiment, test, and iterate.
+                                </p>
+                                <p>
+                                Once all the pages were designed, built, tested, translated, and the minor feedback from the project owner was applied, the website was ready for deployment.
+                                </p>
+                                <p>
+                                By making adjustments to an older codebase, changing the complete design, and integrating a bookings module, this was my first big project, which I am very proud of!
+                                </p>
+                                <p>
+                                I learned a lot during my time at Flow Hospitality Group, and I am forever grateful for the trust and opportunity they gave me. Belcoast Holidays is now online, and you can see the results live for yourself.
+                                </p>
+                            </div>
+                            <img src="./../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
             <!-- Foto parallax section -->
             <div class="parallax-image fhg-parallax">
-                <h3>Bezoek de nieuwe website<br> van Belcoast Holidays</h3>
-                <a href="https://belcoastholidays.be/nl/" target="_blank" class="button-coral">Ga naar website</a>
+                <h3>Visit the new website<br> of Belcoast Holidays</h3>
+                <a href="https://belcoastholidays.be/nl/" target="_blank" class="button-coral">Visit website</a>
             </div>
             <!-- Skills summary section -->
             <section class="white-bg">
                 <div class="fw-container skills-section">
-                    <h3>Gebruikte vaardigheden tijdens mijn stage</h3>
+                    <h3>Skills used during my internship</h3>
                     <div class="line grey"></div>
                     <ul class="skills-container reveal fade-bottom">
                         <li>HTML</li>
@@ -199,20 +272,20 @@
                         <li>Adobe InDesign</li>
                         <li>Adobe Lightroom CC</li>
                         <li>Adobe After Effects</li>
-                        <li>Fotografie & video</li>
+                        <li>Photography & video</li>
                     </ul>
                 </div>
             </section>
             <!-- Work gallery section -->
             <section class="black-bg">
                 <div class="fw-container">
-                  <h3>Andere gepubliceerde opdrachten</h3>
+                  <h3>Other published assignments</h3>
                   <div class="line coral"></div>
                   <div class="portfolio-gallery-container reveal fade-bottom">
                     <!-- Portfolio navigation -->
                     <div class="items">
-                      <span class="item active" data-name="all">Alles</span>
-                      <span class="item" data-name="Photo">Foto's</span>
+                      <span class="item active" data-name="all">All</span>
+                      <span class="item" data-name="Photo">Photos</span>
                       <!-- <span class="item" data-name="Video">Video</span> -->
                     </div>
                     <!-- Portfolio images -->
