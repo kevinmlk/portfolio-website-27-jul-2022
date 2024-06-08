@@ -145,32 +145,38 @@
             <!-- Back history section -->
             <section class="white-bg">
                 <!--  section -->
-            <div class="fw-container">
-                <div class="work-introduction">
-                    <div class="reveal fade-bottom">
-                        <h3>1. Research & discovery</h3>
-                        <div class="line grey"></div>
-                        <p>
-                            For the 1st phase of my associate degree program in Digital Design, I had to spend 21 days converting what I had seen at school into a real professional work environment.
-                            <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, my supervisor, gave me the opportunity to try to solve all kinds of challenging tasks independently in a professional working environment as a digital design intern. These instructive tasks sharpened both my graphic and technical skills. 
-                        </p>
+                <div class="fw-container">
+                    <div class="case-container">
+                        <div class="work-introduction">
+                            <div class="reveal fade-bottom">
+                                <h2>1. Straightforward strategy</h2>
+                                <p>
+                                    After my supervisor came out of a meeting with the owner of Belcoast Holidays (formerly C-Holidays), he gave me a short briefing and a document listing the specific changes I needed to make to the website. Otherwise, I was given the freedom to experiment with the provided colors and layout myself.
+                                    <br><br>
+                                    The intention was not to design a completely new website but to give the existing C-Holidays website a newer, fresher look. The goal was to achieve this by copying the existing C-Holidays website and experimenting with the template elements to create something new using the new branding.
+                                </p>
+                            </div>
+                        </div>
+    
+                        <div class="media-text">
+                            <!-- Media content -->
+                            <div class="media-content reveal fade-bottom">
+                                <h3 class="tag-line">Discovery and conducting a small research analysis.</h3>
+                                <p>
+                                The target audience of the website is mainly older citizens, families, and tourists from neighboring countries looking for a small vacation by renting a holiday house or apartment at an affordable price.
+                                </p>
+                                <p>
+                                One of the most important tasks in this project was implementing the new booking feature and integrating it with the new Belcoast Holidays website, allowing users to book directly from the site.
+                                </p>
+                                <p>
+                                The technology stack hasn't changed; the current C-Holidays website was built by modifying a template that was constructed with HTML, CSS, and JavaScript. I proposed updating the Bootstrap version that the website was using, but this would require many modifications and might break certain functionalities. Additionally, we didn't have much time, so we decided to continue working with the current Bootstrap version.
+                                </p>
+                            </div>
+                            <img src="../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                        </div>
+
                     </div>
                 </div>
-                <div class="media-text">
-                    <!-- Media content -->
-                    <div class="media-content reveal fade-bottom">
-                        <h3 class="tag-line">Rebranding website C-Holidays naar Belcoast Holidays.</h3>
-                        <p>
-                            Mijn hoofdtaak tijdens mijn stage bij Flow Hospitality Group was het rebranden van de C-holidays website naar Belcoast Holidays. Hiervoor had ik al het nodige materiaal (nieuwe huisstijl, logo, kleuren) gekregen en moest ik niet zelf ontwerpen.
-                            <br><br>
-                            In een document stonden de specifieke aanpassingen die ik aan de website moest aanbrengen, maar voor de rest had ik de vrijheid gekregen om zelf te experimenteren met de kleuren en lay-out. De bedoeling was niet om een volledig nieuwe website te ontwerpen, maar om het bestaande C-Holidays website een nieuwer, frisser look te geven.
-                            <br><br>
-                            Voor het West Bay domein moest ik een boekingsmodule van recranet implementeren en de opmaak aanpassen gebaseerd op het nieuwe huisstijl. Door de verschillende feedback momenten en begeleiding van mijn stagementor is deze taak afgerond en staat de nieuwe website online.
-                        </p>
-                    </div>
-                    <img src="../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
-                </div>
-            </div>
                 
             </section>
             <!-- Foto parallax section -->

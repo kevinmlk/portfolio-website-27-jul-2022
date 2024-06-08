@@ -93,7 +93,7 @@
             <!-- About section -->
             <section class="white-bg">
                 <div class="fw-container media-text">
-                    <img src="assets/media/about-me-2.jpg" class="image-border-left reveal fade-bottom" alt="Kevin Malekera portret foto" loading="lazy">
+                    <img src="./assets/media/about-me-2.jpg" class="image-border-left reveal fade-bottom" alt="Kevin Malekera portret foto" loading="lazy">
                     <!-- Media content -->
                     <div class="media-content reveal fade-bottom">
                         <h3 class="tag-line">This is me in a nutshell.</h3>

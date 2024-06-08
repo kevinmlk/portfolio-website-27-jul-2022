@@ -38,7 +38,11 @@
 
 .media-text {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+.media-text h3 {
+    font-size: 1.8em;
 }
 
 .image-border-left {
@@ -238,6 +242,11 @@
     color: var(--dark) !important;
 }
 
+.work-introduction h2 {
+    text-align: left;
+    font-size: 2.2em;
+}
+
 .work-introduction h3 {
     text-align: left;
 }
@@ -254,6 +263,12 @@
     color: var(--dark);
     text-decoration: underline;
     font-weight: 600;
+}
+
+.case-container {
+    display: flex;
+    flex-direction: column;
+    gap: 7rem;
 }
 
 .portfolio-gallery-container {
