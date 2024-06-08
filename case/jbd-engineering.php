@@ -113,28 +113,28 @@
                             <img src="./../assets/media/icons/challenge-coral.png" alt="website icon" loading="lazy">
                             <h4>Challenge</h4>
                             <p>
-                                Owner of C-Holidays wants to rebrand the C-Holidays website to Belcoast Holidays while also integrating a new bookings module.
+                              Designing a new website for Jbd Engineering, a LED displays rental & repairs business, where they can showcase their work and displays.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/concept-coral.png" alt="penseel icon" loading="lazy">
                             <h4>Concept</h4>
                             <p>
-                                A new website for Belcoast Holidays where clients can directly book a holiday house or apartment using an integrated bookings module.
+                              A brand new website that highlights the Jbd Engineering brand and showcases their recent work and realizations of LED displays.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/solution-coral.png" alt="afbeelding icon" loading="lazy">
                             <h4>Solution</h4>
                             <p>
-                                A rebranded website of C-Holidays with the new branding applied of Belcoast Holidays. Each domain has a dedicated page with a bookings module. 
+                              A modern, sleek, and dark-themed website that highlights the expertise of Jbd Engineering's team and the quality of their LED displays.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/outcome-coral.png" alt="seo icon" loading="lazy">
                             <h4>Outcome</h4>
                             <p>
-                                Successfull rebranding of the C-Holidays website to <a href="https://belcoastholidays.be/en/" target="_blank">Belcoast Holdiays</a>. Each holidays domain has their own page with a integrated bookings module.
+                              Successful design and development of the new  <a href="https://jbdengineering.be/nl/" target="_blank">Jbd Engineering</a> website, featuring a showcase of their LED displays and the team.
                             </p>
                         </div>
                     </div>
@@ -148,11 +148,12 @@
                     <div class="case-container">
                         <div class="work-introduction">
                             <div class="reveal fade-bottom">
-                                <h2>Straightforward strategy</h2>
+                                <h2>Not a lot of information for a simple website</h2>
                                 <p>
-                                    After my supervisor came out of a meeting with the owner of Belcoast Holidays (formerly C-Holidays), he gave me a short briefing and a document listing the specific changes I needed to make to the website. Otherwise, I was given the freedom to experiment with the provided colors and layout myself.
-                                    <br><br>
-                                    The intention was not to design a completely new website but to give the existing C-Holidays website a newer, fresher look. The goal was to achieve this by copying the existing C-Holidays website and experimenting with the template elements to create something new using the new branding.
+                                  JBD handles repairs and rentals of LED screens for trade shows, events, and more. They are engineers who recently founded the company and want to differentiate themselves through fair pricing.
+                                  
+                                  <br><br>
+                                  They needed a simple, concise website that explains who they are and what they do. While I didn't receive a lot of information, I did get some details about the structure and the logo. Based on this, I was allowed to design a proposal for the homepage and present it to my supervisor.
                                 </p>
                             </div>
                         </div>
@@ -160,15 +161,15 @@
                         <div class="media-text">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Discovery and conducting a small research analysis.</h3>
+                                <h3 class="tag-line">Discovering, exploring, and analyzing the LED displays market</h3>
                                 <p>
-                                The target audience of the website is mainly older citizens, families, and tourists from neighboring countries looking for a small vacation by renting a holiday house or apartment at an affordable price.
+                                The objective of this project was to develop a simple website providing more information about the individuals behind Jbd Engineering and the range of services and products they offer.
                                 </p>
                                 <p>
-                                One of the most important tasks in this project was implementing the new booking feature and integrating it with the new Belcoast Holidays website, allowing users to book directly from the site.
+                                Their target audience comprised event planners/organizers, marketing and advertising agencies seeking to create striking visual displays, exhibitors at trade shows, and event production companies.
                                 </p>
                                 <p>
-                                The technology stack hasn't changed; the current C-Holidays website was built by modifying a template that was constructed with HTML, CSS, and JavaScript. I proposed updating the Bootstrap version that the website was using, but this would require many modifications and might break certain functionalities. Additionally, we didn't have much time, so we decided to continue working with the current Bootstrap version.
+                                Key features to be included in the design were clear navigation, an overview of all available services, rental packages and pricing details, a photo gallery showcasing LED displays, information on repair services, testimonials, contact details, and a FAQ section.
                                 </p>
                             </div>
                             <img src="../assets/media/case-fhg/image-discovery.jpg" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">

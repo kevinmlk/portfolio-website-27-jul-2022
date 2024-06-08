@@ -114,7 +114,7 @@
                             <img src="./../assets/media/icons/challenge-coral.png" alt="website icon" loading="lazy">
                             <h4>Challenge</h4>
                             <p>
-                                Owner of C-Holidays wants to rebrand the C-Holidays website to Belcoast Holidays while also integrating a new bookings module.
+                                Desiging a new website for Jbd Engineering, a LED displays rental & repairs business.
                             </p>
                         </div>
                         <div class="service">
