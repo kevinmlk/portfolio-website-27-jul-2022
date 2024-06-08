@@ -202,9 +202,10 @@
     margin-top: 6rem;
 }
 
-.media-content-small {
+.media-content-small, .media-content-large {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .media-content-text {

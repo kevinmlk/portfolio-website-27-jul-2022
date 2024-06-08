@@ -99,6 +99,7 @@
                         <p>
                             For the 1st phase of my associate degree program in Digital Design, I had to spend 21 days converting what I had seen at school into a real professional work environment.
                             <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, my supervisor, gave me the opportunity to try to solve all kinds of challenging tasks independently in a professional working environment as a digital design intern. These instructive tasks sharpened both my graphic and technical skills. 
+                            One of my main tasks was the rebranding of C-Holidays to Belcoast Holidays.
                         </p>
                     </div>
                 </div>
@@ -110,31 +111,31 @@
                     <div class="line coral"></div>
                     <div id="services-container" class="reveal fade-bottom">
                         <div class="service">
-                            <img src="./../assets/media/icons/website-coral.png" alt="website icon" loading="lazy">
+                            <img src="./../assets/media/icons/challenge-coral.png" alt="website icon" loading="lazy">
                             <h4>Challenge</h4>
                             <p>
                                 Owner of C-Holidays wants to rebrand the C-Holidays website to Belcoast Holidays while also integrating a new bookings module.
                             </p>
                         </div>
                         <div class="service">
-                            <img src="./../assets/media/icons/brush-coral.png" alt="penseel icon" loading="lazy">
+                            <img src="./../assets/media/icons/concept-coral.png" alt="penseel icon" loading="lazy">
                             <h4>Concept</h4>
                             <p>
                                 A new website for Belcoast Holidays where clients can directly book a holiday house or apartment using an integrated bookings module.
                             </p>
                         </div>
                         <div class="service">
-                            <img src="./../assets/media/icons/picture-coral.png" alt="afbeelding icon" loading="lazy">
+                            <img src="./../assets/media/icons/solution-coral.png" alt="afbeelding icon" loading="lazy">
                             <h4>Solution</h4>
                             <p>
-                                First 
+                                A rebranded website of C-Holidays with the new branding applied of Belcoast Holidays. Each domain has a dedicated page with a bookings module. 
                             </p>
                         </div>
                         <div class="service">
-                            <img src="./../assets/media/icons/seo-coral.png" alt="seo icon" loading="lazy">
+                            <img src="./../assets/media/icons/outcome-coral.png" alt="seo icon" loading="lazy">
                             <h4>Outcome</h4>
                             <p>
-                                SEO optimalisatie van de Belcoast Holidays website verbeteren. Sfeer foto's maken en bewerken voor op de sociale media van <a href="https://www.instagram.com/chotelsbelgium/" target="_blank">chotelsbelgium</a>.
+                                Successfull rebranding of the C-Holidays website to <a href="https://belcoastholidays.be/en/" target="_blank">Belcoast Holdiays</a>. Each holidays domain has their own page with a integrated bookings module.
                             </p>
                         </div>
                     </div>
@@ -171,7 +172,7 @@
                                 The technology stack hasn't changed; the current C-Holidays website was built by modifying a template that was constructed with HTML, CSS, and JavaScript. I proposed updating the Bootstrap version that the website was using, but this would require many modifications and might break certain functionalities. Additionally, we didn't have much time, so we decided to continue working with the current Bootstrap version.
                                 </p>
                             </div>
-                            <img src="../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="../assets/media/case-fhg/image-discovery.jpg" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                         </div>
 
                     </div>
@@ -193,29 +194,31 @@
                             </div>
                         </div>
 
-                        <div class="media-content-small">
-                            <div class="media-content-text">
-                                <h4>Applying the new branding design</h4>
+                        <div class="media-text">
+                            <!-- Media content -->
+                            <div class="media-content reveal fade-bottom">
+                                <h3 class="tag-line">Applying the new branding design</h3>
                                 <p>
-                                    Because the new brand guide was provided, I didn't had to redesign the entire brand my self. It was also not necessary to create mockups to visualize how the website would look like, because I could directly apply this on the website self.
-                                    <br><br>
-                                    The sitemap hadn't changed much, I only need to add a few pages for the Zeegalm and West Bay holiday domains. The webpages were new so I had to structre the pages with some available HTML elements from the existing template.
+                                Because the new brand guide was provided, I didn't had to redesign the entire brand my self. It was also not necessary to create mockups to visualize how the website would look like, because I could directly apply this on the website self. 
                                 </p>
-                                <a href="work/belcoast" class="underline-hover-black">Meer info</a>
+                                <p>
+                                The sitemap hadn't changed much, I only need to add a few pages for the Zeegalm and West Bay holiday domains. The webpages were new so I had to structre the pages with some available HTML elements from the existing template. 
+                                </p>
                             </div>
-                            <img src="./../assets/media/resume.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
+                            <img src="./../assets/media/case-fhg/image-design-1.jpg" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                         </div>
-    
-                        <div class="media-content-small">
-                            <img src="./../assets/media/work.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
-                            <div class="media-content-text reveal fade-bottom">
-                                <h4>Prototyping and building the website</h4>
+
+                        <div class="media-text">
+                        <img src="./../assets/media/case-fhg/image-design-2.jpg" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <!-- Media content -->
+                            <div class="media-content reveal fade-bottom">
+                                <h3 class="tag-line">Prototyping and building the website</h3>
                                 <p>
-                                    By directly applying the new design on the website we could immediately see how the website would look like and function. This made it easy to test and experiment different approaches and adjust the design to the users needs.
-                                    <br><br>
-                                    After a few iterations, we were satisfied with the final design and could now translate the content so that it is available in multiple languages.
+                                By directly applying the new design on the website we could immediately see how the website would look like and function. This made it easy to test and experiment different approaches and adjust the design to the users needs.
                                 </p>
-                                <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
+                                <p>
+                                After a few iterations, we were satisfied with the final design and could now translate the content so that it is available in multiple languages.  
+                                </p>
                             </div>
                         </div>
                     </div>
