@@ -86,7 +86,7 @@
                 <div class="typed-container">
                     <p>Student Digital Experience Design specialised in <span class='typed-text'></span><span class='cursor'>&nbsp;</span></p>
                 </div>
-                <a href="./conact.php" class="button-coral">Contact me</a>
+                <a href="./contact.php" class="button-coral">Contact me</a>
             </div>
             
             <!-- Video parallax banner -->

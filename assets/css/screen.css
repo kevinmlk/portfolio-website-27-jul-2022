@@ -232,6 +232,10 @@
     width: fit-content;
 }
 
+.white-link {
+    color: var(--white) !important;
+}
+
 /* *************** */
 /* WORK PAGE STYLE */
 /* *************** */

@@ -297,6 +297,40 @@
                     </ul>
                 </div>
             </section>
+            <!-- Work section -->
+            <section class="black-bg">
+                <div class="fw-container">
+                    <h3>Explore other projects</h3>
+                    <div class="line grey"></div>
+                    <div id="work-container">
+                        <div class="media-content-small">
+                            <img src="./../assets/media/case-matemi/matemi-header.jpg" class="reveal fade-bottom" alt="Jbd Engineering" loading="lazy">
+                            <div class="media-content-text reveal fade-bottom">
+                                <h4>Matemi, website for a HVAC business from Ostend. </h4>
+                                <p>
+                                    During my summer job as an User Interface Designer at lsDevign, I had to redesign a website for a HVAC business from Ostend.
+                                    <br><br>
+                                    For this project I had to come up with a new style guide end create high fidelity mockups for the user interface of the website.
+                                </p>
+                                <a href="./matemi.php" class="underline-hover-white white-link">More info</a>
+                            </div>
+                        </div>
+
+                        <div class="media-content-small">
+                            <div class="media-content-text">
+                                <h4>Belcoast Holidays website</h4>
+                                <p>
+                                    During my apprenticeship at Flow Hospitality Group, I was tasked with rebranding the existing C-Holidays website to Belcoast Holidays
+                                    <br><br>
+                                    The website got a completely new look that looks fresher and conveys more of a vacation feel. A recranet booking module was also linked to the website so you can book a stay right away. 
+                                </p>
+                                <a href="./case/belcoast.php" class="underline-hover-white white-link">More info</a>
+                            </div>
+                            <img src="./../assets/media/Flow_Logo.png" class="reveal fade-bottom" alt="Flow Hospitality Group logo" id="flow-logo" loading="lazy">
+                        </div>
+                    </div>
+                </div>
+            </section>
             <!-- Include parallax -->
             <?php include_once(__DIR__ . '/../includes/parallax-deep.inc.php'); ?>
         </main>

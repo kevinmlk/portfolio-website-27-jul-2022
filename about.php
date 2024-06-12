@@ -115,7 +115,6 @@
                                     <br><br>
                                     I strive to make the web a better and more user-friendly place by providing innovative digital solutions that meet the highest standards of accessibility, security, and ease of use.
                                 </p>
-                                <a href="work/belcoast" class="underline-hover-black">Meer info</a>
                             </div>
                             <img src="assets/media/resume.jpg" class="reveal fade-bottom" alt="Working on laptop" loading="lazy">
                         </div>
@@ -129,7 +128,6 @@
                                     <br><br>
                                     I am passionate about improving the digital world and want to contribute to a positive and ethical evolution of the web.
                                 </p>
-                                <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
                             </div>
                         </div>
                     </div>
