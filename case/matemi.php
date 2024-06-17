@@ -11,19 +11,19 @@
             gtag('config', 'G-H55DCDM7PL');
         </script>
          <!-- Tab title -->
-         <title>Portfolio - Jbd Engineering | Kevin Malekera</title>
+         <title>Portfolio - Matemi | Kevin Malekera</title>
          <!-- SEO -->
-         <meta name="title" content="Kevin Malekera - My portfolio - Internship lsDevign">
-         <meta name="description" content="During my internship at lsDevign, was one of my tasks to design a new website for Jbd Engineering.">
-         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, Jbd Engineering, lsDevign, internship, workplace, UX/UI, adobe">
+         <meta name="title" content="Kevin Malekera - My portfolio - User Interface Designer at lsDevign">
+         <meta name="description" content="During my summer job as a UI designer at lsDevign, one of my tasks was to redesign a website for Matemi, an HVAC business based in Ostend.">
+         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, lsDevign, workplace, UX/UI, adobe, matemi, hvac, ostend, summer job, ui design, user interface designer">
          <meta name="robots" content="index, follow">
          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
          <meta name="author" content="Kevin Malekera">
          <meta name="viewport" content="width=device-width, initial-scale=1">
          <!-- Language meta tags -->
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/jbd-engineering.php">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/jbd-engineering.php">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/jbd-engineering.php">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/matemi.php">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/matemi.php">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/matemi.php">
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="./../assets/media/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="./../assets/media/favicon/favicon-32x32.png">
@@ -49,7 +49,7 @@
         <!-- Inlcude preloader -->
         <?php include_once(__DIR__ . '/../includes/preloader.inc.php'); ?>
         <!-- Header -->
-        <header class="overlay alt-header jbd-header">
+        <header class="overlay alt-header matemi-header">
             <div id="navigation" class="fw-container">
                 <h2><a href="./../index.php" class="strikethrough" id="first-header"><b>Kevin</b> Malekera</a></h2>
                 <h2><a href="./../index.php" class="strikethrough" id="second-header"><b>K</b>M</a></h2>
@@ -82,8 +82,8 @@
             </div>
 
             <div class="parallax-content">
-                <h1>Jbd Engineering</h1>
-                <p>During my associate degree studies, I did 5 months of workplace training at <b>lsDevign</b>.</p>
+                <h1>Matemi</h1>
+                <p>During my summer job as a UI designer at lsDevign, I had to redesign a website for Matemi, an HVAC business in Ostend.</p>
             </div>
 
             <div></div>
@@ -94,11 +94,11 @@
             <section class="white-bg">
                 <div class="fw-container work-introduction">
                     <div class="reveal fade-bottom">
-                        <h3>Experience workplace learning at lsDevign</h3>
+                        <h3>UI designer at lsDevign</h3>
                         <div class="line grey"></div>
                         <p>
-                          For the last phase of my associate degree program in Digital Design, I had to spend a whole semester applying what I had learned at school in a real professional work environment. Laurens Spaey, CEO of
-                          <a href="https://www.lsdevign.be/en/" target="_blank">lsDevign</a> and my supervisor, gave me the opportunity to design multiple websites for a diverse range of clients, each with different needs and tastes. One of my design tasks was creating a brand new website for Jbd Engineering.
+                          After obtaining my associate degree in digital design, I got offered the opportunity to work as a UI designer at my last internship, <a href="https://www.lsdevign.be/en/" target="_blank">lsDevign</a>, for a month.
+                          One of the tasks that I had gotten, was to redesign the website of Matemi, a HVAC business based in Ostend.
                         </p>
                     </div>
                 </div>
@@ -113,14 +113,14 @@
                             <img src="./../assets/media/icons/challenge-coral.png" alt="website icon" loading="lazy">
                             <h4>Challenge</h4>
                             <p>
-                              Designing a new website for Jbd Engineering, a LED displays rental & repairs business, where they can showcase their work and displays.
+                              Redesigning the website of Matemi, a HVAC business, where they can showcase their work and dispaly their services.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/concept-coral.png" alt="penseel icon" loading="lazy">
                             <h4>Concept</h4>
                             <p>
-                              A brand new website that highlights the Jbd Engineering brand and showcases their recent work and realizations of LED displays.
+                              A redesign of their website that highlights the their new brand and showcases their recent work and realizations.
                             </p>
                         </div>
                         <div class="service">
