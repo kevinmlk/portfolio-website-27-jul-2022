@@ -10,6 +10,12 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Contact me">
+        <meta property="og:description" content="If you have a question or would like to hire me for a project, contact me today.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/contact.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/contact.php">
+        <meta property="og:type" content="website">
         <!-- Title -->
         <title>Contact | Kevin Malekera</title>
         <!-- SEO -->

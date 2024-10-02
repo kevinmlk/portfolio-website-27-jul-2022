@@ -10,6 +10,12 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Recent projects">
+        <meta property="og:description" content="Welcome to my portfolio, here you can see an overview of my recent projects.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/work.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/work.php">
+        <meta property="og:type" content="website">
         <!-- Tab title -->
         <title>Portfolio | Kevin Malekera</title>
         <!-- SEO -->

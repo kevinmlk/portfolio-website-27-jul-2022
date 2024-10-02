@@ -10,6 +10,12 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Belcoast Holidays">
+        <meta property="og:description" content="A rebranding of the C-Holidays website that I did during my internship.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/case-fhg/fhg-header.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/case/belcoast.php">
+        <meta property="og:type" content="website">
          <!-- Tab title -->
          <title>Portfolio - Internship Flow Hospitality Group | Kevin Malekera</title>
          <!-- SEO -->

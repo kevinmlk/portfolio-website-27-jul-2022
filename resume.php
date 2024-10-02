@@ -10,6 +10,12 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Online resume">
+        <meta property="og:description" content="This is my online resume, here you can see an overview of my education and work experience.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/resume.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/resume.php">
+        <meta property="og:type" content="website">
         <!-- Title -->
         <title>Resume | Kevin Malekera</title>
         <!-- SEO -->

@@ -10,6 +10,12 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Me in a nutshell">
+        <meta property="og:description" content="About my personality, passions and what I like to do in my free time.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/work.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/about.php">
+        <meta property="og:type" content="website">
         <!-- Title -->
         <title>About | Kevin Malekera</title>
         <!-- SEO -->

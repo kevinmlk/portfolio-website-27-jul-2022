@@ -10,6 +10,12 @@
 
             gtag('config', 'G-H55DCDM7PL');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Jbd Engineering">
+        <meta property="og:description" content="During my internship at lsDevign, one of my tasks was to design a new website for Jbd Engineering.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/case-jbd/jbd-header.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/case/jbd-engineering.php">
+        <meta property="og:type" content="website">
          <!-- Tab title -->
          <title>Portfolio - Jbd Engineering | Kevin Malekera</title>
          <!-- SEO -->
