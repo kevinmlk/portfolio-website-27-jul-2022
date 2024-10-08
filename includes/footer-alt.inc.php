@@ -9,9 +9,32 @@
       </ul>
       <h2 class="reveal fade-bottom"><a href="index.php">KM</a></h2>
       <ul class="footer-socials reveal fade-bottom">
-        <li><a href="https://github.com/kevinmlk" target="_blank"><img src="./../assets/media/icons/github-coral.png" alt="Github icon" loading="lazy"></a></li>
-        <li><a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank"><img src="./../assets/media/icons/linkedin-coral.png" alt="linkedin icon" loading="lazy"></a></li>
-        <li><a href="https://t.me/kevinmalekera" target="_blank"><img src="./../assets/media/icons/telegram-coral.png" alt="telegram icon" loading="lazy"></a></li>
+        <li>
+          <a href="https://github.com/kevinmlk" target="_blank">
+            <picture>
+                <source srcset="./../assets/media/icons/github-coral.webp" type="image/webp">
+                <img src="./../assets/media/icons/github-coral.png" alt="Github icon" type="image/png">
+            </picture>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.linkedin.com/in/kevin-malekera/" target="_blank">
+            <picture>
+              <source srcset="./../assets/media/icons/linkedin-coral.webp" type="image/webp">
+              <img src="./../assets/media/icons/linkedin-coral.png" alt="linkedin icon" type="image/png">
+            </picture>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://t.me/kevinmalekera" target="_blank">
+            <picture>
+              <source srcset="./../assets/media/icons/telegram-coral.webp" type="image/webp">
+              <img src="./../assets/media/icons/telegram-coral.png" alt="telegram icon" type="image/png">
+            </picture>
+          </a>
+        </li>
       </ul>
     </div>
     <!-- Copyright -->

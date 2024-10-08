@@ -36,6 +36,12 @@
         <meta property="og:image" content="https://kevinmalekera.be/assets/media/work.jpg">
         <meta property="og:url" content="https://kevinmalekera.be">
         <meta property="og:type" content="website">
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://kevinmalekera.be/" />
+        <meta property="twitter:title" content="Kevin Malekera" />
+        <meta property="twitter:description" content="Hey, I'm Kevin Malekera student Digital Experience Design at Thomas More University College and freelancer as a digital designer." />
+        <meta property="twitter:image" content="https://kevinmalekera.be/assets/media/work.jpg" />
         <!-- Tab title -->
         <title>Kevin Malekera</title>
         <!-- SEO -->
@@ -131,7 +137,11 @@
             <!-- About section -->
             <section class="white-bg">
                 <div class="fw-container media-text">
-                    <img src="./assets/media/about-me-1.jpg" class="image-border-left reveal fade-bottom" alt="about me" loading="lazy">
+                    <picture class="image-border-left reveal fade-bottom">
+                        <source srcset="./assets/media/about-me-1.webp" type="image/webp">
+                        <img src="./assets/media/about-me-1.jpg" alt="about me" type="image/jpeg">
+                    </picture>
+
                     <!-- Media content -->
                     <div class="media-content reveal fade-bottom">
                         <h3 class="tag-line">My passion and focus is custom web development.</h3>
@@ -150,28 +160,40 @@
                     <div class="line coral"></div>
                     <div id="services-container" class="reveal fade-bottom">
                         <div class="service">
-                            <img src="./assets/media/icons/website-coral.png" alt="diensten website icon" loading="lazy">
+                            <picture>
+                                <source srcset="./assets/media/icons/website-coral.webp" type="image/webp">
+                                <img src="./assets/media/icons/website-coral.png" alt="diensten website icon" type="image/png">
+                            </picture>
                             <h4>Websites</h4>
                             <p>
                                 Need a website or revamp an existing one? I will develop a fully customized website for you. 
                             </p>
                         </div>
                         <div class="service">
-                            <img src="./assets/media/icons/cart-coral.png" alt="diensten e-commerce icon" loading="lazy">
+                            <picture>
+                                <source srcset="./assets/media/icons/cart-coral.webp" type="image/webp">
+                                <img src="./assets/media/icons/cart-coral.png" alt="diensten e-commerce icon" type="image/png">
+                            </picture>
                             <h4>E-commerce</h4>
                             <p>
                                 Do you want to start a functioning webshop in addition to your physical store? With WooCommerce I will build you a complete webshop. 
                             </p>
                         </div>
                         <div class="service">
-                            <img src="./assets/media/icons/seo-coral.png" alt="diensten digitale marketing icon" loading="lazy">
+                            <picture>
+                                <source srcset="./assets/media/icons/seo-coral.webp" type="image/webp">
+                                <img src="./assets/media/icons/seo-coral.png" alt="diensten digitale marketing icon" type="image/png">
+                            </picture>
                             <h4>Digital marketing</h4>
                             <p>
                                 SEO optimization, Google Ads and email marketing. Boost your conversions and reach your customers through various channels. 
                             </p>
                         </div>
                         <div class="service">
-                            <img src="./assets/media/icons/brush-coral.png" alt="diensten branding icon" loading="lazy">
+                            <picture>
+                                <source srcset="./assets/media/icons/brush-coral.webp" type="image/webp">
+                                <img src="./assets/media/icons/brush-coral.png" alt="diensten branding icon" type="image/png">
+                            </picture>
                             <h4>Branding</h4>
                             <p>
                                 Need unique corporate identity for your brand with an original logo? By combining my graphic skills I create unique designs for you. 
@@ -211,7 +233,10 @@
                     <div class="line grey"></div>
                     <div id="work-container">
                         <div class="media-content-small">
-                            <img src="./assets/media/jbd-engineering-thumbnail.png" class="image-border-left reveal fade-bottom" alt="Jbd Engineering" loading="lazy">
+                            <picture class="image-border-left reveal fade-bottom">
+                                <source srcset="./assets/media/jbd-engineering-thumbnail.webp" type="image/webp">
+                                <img src="./assets/media/jbd-engineering-thumbnail.png" alt="Jbd Engineering" type="image/png">
+                            </picture>
                             <div class="media-content-text reveal fade-bottom">
                                 <h4>Designing the Jbd Engineering website</h4>
                                 <p>
@@ -233,7 +258,10 @@
                                 </p>
                                 <a href="./case/belcoast.php" class="underline-hover-black">More info</a>
                             </div>
-                            <img src="./assets/media/Flow_Logo.png" class="image-border-right reveal fade-bottom" alt="Flow Hospitality Group logo" id="flow-logo" loading="lazy">
+                            <picture id="flow-logo" class="image-border-right reveal fade-bottom">
+                                <source srcset="./assets/media/Flow_Logo.webp" type="image/webp">
+                                <img src="./assets/media/Flow_Logo.png" alt="Flow Hospitality Group logo" type="image/png">
+                            </picture>
                         </div>
                     </div>
                 </div>

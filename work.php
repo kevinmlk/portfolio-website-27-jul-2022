@@ -23,12 +23,6 @@
         <meta property="og:image" content="https://kevinmalekera.be/assets/media/work.jpg">
         <meta property="og:url" content="https://kevinmalekera.be/work.php">
         <meta property="og:type" content="website">
-        <!-- Twitter -->
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://kevinmalekera.be/" />
-        <meta property="twitter:title" content="Kevin Malekera" />
-        <meta property="twitter:description" content="Hey, I'm Kevin Malekera student Digital Experience Design at Thomas More University College and freelancer as a digital designer." />
-        <meta property="twitter:image" content="https://kevinmalekera.be/assets/media/work.jpg" />
         <!-- Tab title -->
         <title>Portfolio | Kevin Malekera</title>
         <!-- SEO -->

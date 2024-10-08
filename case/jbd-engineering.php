@@ -315,7 +315,7 @@
                 </div>
             </section>
             <!-- Work section -->
-            <section class="black-bg">
+            <!-- <section class="black-bg">
                 <div class="fw-container">
                     <h3>Explore other projects</h3>
                     <div class="line grey"></div>
@@ -347,7 +347,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Include parallax -->
             <?php include_once(__DIR__ . '/../includes/parallax-deep.inc.php'); ?>
         </main>
