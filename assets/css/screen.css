@@ -287,6 +287,21 @@
     align-items: center;
 }
 
+.glide {
+    margin-top: 2rem;
+}
+
+.glide__slide a img {
+    height: 850px;
+}
+
+.glide__arrows {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
 ::selection{
     color: var(--whitegrey);
     background: var(--coral);
