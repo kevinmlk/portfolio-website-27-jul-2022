@@ -302,6 +302,19 @@
     gap: 2rem;
 }
 
+.glide__arrows button {
+    border: none;
+    padding: 0;
+}
+
+.glide__arrows button:hover {
+    cursor: pointer;
+}
+
+.glide__arrows button img {
+    height: 48px;
+}
+
 ::selection{
     color: var(--whitegrey);
     background: var(--coral);

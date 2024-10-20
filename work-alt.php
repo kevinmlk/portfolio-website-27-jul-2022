@@ -149,8 +149,8 @@
                         </div>
 
                         <div data-glide-el="controls" class="glide__arrows">
-                            <button data-glide-dir="<<">previous</button>
-                            <button data-glide-dir=">>">next</button>
+                            <button data-glide-dir="<<"><img src="./assets/media/icons/arrow-circle-left.svg" /></button>
+                            <button data-glide-dir=">>"><img src="./assets/media/icons/arrow-circle-right.svg" /></button>
                         </div>
 
                     </div>
