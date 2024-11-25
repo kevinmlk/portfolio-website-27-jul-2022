@@ -2,14 +2,38 @@
 <html lang="en">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
+        <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);} 
             gtag('js', new Date());
 
             gtag('config', 'G-H55DCDM7PL');
+        </script> -->
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KZPWFDM4');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Hotjar Tracking Code for https://kevinmalekera.be -->
+        <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:5169058,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Online resume">
+        <meta property="og:description" content="This is my online resume, here you can see an overview of my education and work experience.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/resume.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/resume.php">
+        <meta property="og:type" content="website">
         <!-- Title -->
         <title>Resume | Kevin Malekera</title>
         <!-- SEO -->
@@ -46,6 +70,10 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZPWFDM4"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <!-- Include preloader -->
         <?php include_once(__DIR__ . '/includes/preloader.inc.php'); ?>
         <!-- Header -->
@@ -84,7 +112,7 @@
             <div class="parallax-content">
                 <h1>My resume</h1>
                 <p>An in-depth overview of my skills, education and professional experience</p>
-                <a href="./assets/media/resume-EN.pdf" class="button-coral" download="resume-KevinMalekera.pdf">Download CV</a>
+                <!-- <a href="./assets/media/resume-EN.pdf" class="button-coral" download="resume-KevinMalekera.pdf">Download CV</a> -->
             </div>
 
             <div></div>
@@ -107,7 +135,9 @@
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>JavaScript</li>
+                        <li>React Native</li>
                         <li>WordPress</li>
+                        <li>CraftCMS</li>
                         <li>MySQL</li>
                         <li>PHP</li>
                         <li>C#</li>
@@ -116,6 +146,8 @@
                         <li>Adobe InDesign</li>
                         <li>Adobe Premiere Pro</li>
                         <li>Adobe Lightroom CC</li>
+                        <li>Figma</li>
+                        <li>useberry</li>
                     </ul>
                     <!-- Soft skills -->
                     <ul class="skills-container reveal fade-bottom" id="soft-skills">

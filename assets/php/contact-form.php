@@ -47,10 +47,10 @@ try {
     //Sending the mail (and a message to the page)
     $mail->send();
     $message = 'Your message has been sent.';
-    echo "<script>alert('$message');\nwindow.location.replace('https://kevinmalekera.be/contact.html');</script>";
+    echo "<script>alert('$message');\nwindow.location.replace('https://kevinmalekera.be/contact.php');</script>";
 } catch (Exception $e) {
     $message = "Your message could not be sent.";            //"Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-    echo "<script>alert('$message');\nwindow.location.replace('https://kevinmalekera.be/contact.html');</script>";
+    echo "<script>alert('$message');\nwindow.location.replace('https://kevinmalekera.be/contact.php');</script>";
 }
 exit();
 ?>

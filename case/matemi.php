@@ -11,19 +11,19 @@
             gtag('config', 'G-H55DCDM7PL');
         </script>
          <!-- Tab title -->
-         <title>Portfolio - Internship Flow Hospitality Group | Kevin Malekera</title>
+         <title>Portfolio - Matemi | Kevin Malekera</title>
          <!-- SEO -->
-         <meta name="title" content="Kevin Malekera - My portfolio - Internship Flow Hospitality Group">
-         <meta name="description" content="During my internship at Flow Hospitality Group, I had to rebrand C-Holidays' website to Belcoast Holidays.">
-         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, c-holidays, belcoast, holidays, zeegalm, west bay, belcoast holidays, flow hospitality group, recranet, tomas sergeant, holiday house, flats, rebrand, rebranding, internship, workplace, ostend, c-hotels, hotel, andromeda, social media, photos, video, web development, graphic design, photography, digital marketing, UX/UI, visuals, adobe, seo, html, css, javascript, php, illustrator, photoshop, indesign, lightroom, after effects, instagram">
+         <meta name="title" content="Kevin Malekera - My portfolio - User Interface Designer at lsDevign">
+         <meta name="description" content="During my summer job as a UI designer at lsDevign, one of my tasks was to redesign a website for Matemi, an HVAC business based in Ostend.">
+         <meta name="keywords" content="kevin malekera, kevin, malekera, portfolio, work, project, works, web, case, website, lsDevign, workplace, UX/UI, adobe, matemi, hvac, ostend, summer job, ui design, user interface designer">
          <meta name="robots" content="index, follow">
          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
          <meta name="author" content="Kevin Malekera">
          <meta name="viewport" content="width=device-width, initial-scale=1">
          <!-- Language meta tags -->
-        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/belcoast.php">
-        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/belcoast.php">
-        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/belcoast.php">
+        <link rel="alternate" hreflang="en-gb" href="https://kevinmalekera.be/case/matemi.php">
+        <link rel="alternate" hreflang="en-us" href="https://kevinmalekera.be/case/matemi.php">
+        <link rel="alternate" hreflang="en" href="https://kevinmalekera.be/case/matemi.php">
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="./../assets/media/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="./../assets/media/favicon/favicon-32x32.png">
@@ -82,8 +82,8 @@
             </div>
 
             <div class="parallax-content">
-                <h1>Internship FHG</h1>
-                <p>During my associate degree studies, I did 5 months of on-the-job training at <b>Flow Hospitality Group</b> in Ostend.</p>
+                <h1>Matemi</h1>
+                <p>During my summer job as a UI designer at lsDevign, I had to redesign a website for Matemi, an HVAC business in Ostend.</p>
             </div>
 
             <div></div>
@@ -94,12 +94,11 @@
             <section class="white-bg">
                 <div class="fw-container work-introduction">
                     <div class="reveal fade-bottom">
-                        <h3>Experience workplace learning at Flow Hospitality Group</h3>
+                        <h3>UI designer at lsDevign</h3>
                         <div class="line grey"></div>
                         <p>
-                            For the 1st phase of my associate degree program in Digital Design, I had to spend 21 days converting what I had seen at school into a real professional work environment.
-                            <a href="https://www.linkedin.com/in/tomassergeant/" target="_blank">Tomas Sergeant</a>, my supervisor, gave me the opportunity to try to solve all kinds of challenging tasks independently in a professional working environment as a digital design intern. These instructive tasks sharpened both my graphic and technical skills. 
-                            One of my main tasks was the rebranding of C-Holidays to Belcoast Holidays.
+                          After obtaining my associate degree in digital design, I got offered the opportunity to work as a UI designer at my last internship, <a href="https://www.lsdevign.be/en/" target="_blank">lsDevign</a>, for a month.
+                          One of the tasks that I had gotten, was to redesign the website of Matemi, a HVAC business based in Ostend.
                         </p>
                     </div>
                 </div>
@@ -114,28 +113,28 @@
                             <img src="./../assets/media/icons/challenge-coral.png" alt="website icon" loading="lazy">
                             <h4>Challenge</h4>
                             <p>
-                                Owner of C-Holidays wants to rebrand the C-Holidays website to Belcoast Holidays while also integrating a new bookings module.
+                              Redesigning the website of Matemi, a HVAC business, where they can showcase their work and dispaly their services.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/concept-coral.png" alt="penseel icon" loading="lazy">
                             <h4>Concept</h4>
                             <p>
-                                A new website for Belcoast Holidays where clients can directly book a holiday house or apartment using an integrated bookings module.
+                              A redesign of their website that highlights the their new brand and showcases their recent work and realizations.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/solution-coral.png" alt="afbeelding icon" loading="lazy">
                             <h4>Solution</h4>
                             <p>
-                                A rebranded website of C-Holidays with the new branding applied of Belcoast Holidays. Each domain has a dedicated page with a bookings module. 
+                              A modern, sleek, and dark-themed website that highlights the expertise of Jbd Engineering's team and the quality of their LED displays.
                             </p>
                         </div>
                         <div class="service">
                             <img src="./../assets/media/icons/outcome-coral.png" alt="seo icon" loading="lazy">
                             <h4>Outcome</h4>
                             <p>
-                                Successfull rebranding of the C-Holidays website to <a href="https://belcoastholidays.be/en/" target="_blank">Belcoast Holdiays</a>. Each holidays domain has their own page with a integrated bookings module.
+                              Successful design and development of the new  <a href="https://jbdengineering.be/nl/" target="_blank">Jbd Engineering</a> website, featuring a showcase of their LED displays and the team.
                             </p>
                         </div>
                     </div>
@@ -149,11 +148,12 @@
                     <div class="case-container">
                         <div class="work-introduction">
                             <div class="reveal fade-bottom">
-                                <h2>Straightforward strategy</h2>
+                                <h2>Not a lot of information for a simple website</h2>
                                 <p>
-                                    After my supervisor came out of a meeting with the owner of Belcoast Holidays (formerly C-Holidays), he gave me a short briefing and a document listing the specific changes I needed to make to the website. Otherwise, I was given the freedom to experiment with the provided colors and layout myself.
-                                    <br><br>
-                                    The intention was not to design a completely new website but to give the existing C-Holidays website a newer, fresher look. The goal was to achieve this by copying the existing C-Holidays website and experimenting with the template elements to create something new using the new branding.
+                                  JBD handles repairs and rentals of LED screens for trade shows, events, and more. They are engineers who recently founded the company and want to differentiate themselves through fair pricing.
+                                  
+                                  <br><br>
+                                  They needed a simple, concise website that explains who they are and what they do. While I didn't receive a lot of information, I did get some details about the structure and the logo. Based on this, I was allowed to design a proposal for the homepage and present it to my supervisor.
                                 </p>
                             </div>
                         </div>
@@ -161,20 +161,19 @@
                         <div class="media-text">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Discovery and conducting a small research analysis.</h3>
+                                <h3 class="tag-line">Discovering, exploring, and analyzing the LED displays market</h3>
                                 <p>
-                                The target audience of the website is mainly older citizens, families, and tourists from neighboring countries looking for a small vacation by renting a holiday house or apartment at an affordable price.
+                                The objective of this project was to develop a simple website providing more information about the individuals behind Jbd Engineering and the range of services and products they offer.
                                 </p>
                                 <p>
-                                One of the most important tasks in this project was implementing the new booking feature and integrating it with the new Belcoast Holidays website, allowing users to book directly from the site.
+                                Their target audience comprised event planners/organizers, marketing and advertising agencies seeking to create striking visual displays, exhibitors at trade shows, and event production companies.
                                 </p>
                                 <p>
-                                The technology stack hasn't changed; the current C-Holidays website was built by modifying a template that was constructed with HTML, CSS, and JavaScript. I proposed updating the Bootstrap version that the website was using, but this would require many modifications and might break certain functionalities. Additionally, we didn't have much time, so we decided to continue working with the current Bootstrap version.
+                                Key features to be included in the design were clear navigation, an overview of all available services, rental packages and pricing details, a photo gallery showcasing LED displays, information on repair services, testimonials, contact details, and a FAQ section.
                                 </p>
                             </div>
-                            <img src="../assets/media/case-fhg/image-discovery.jpg" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="../assets/media/case-jbd/discovery-jbd.jpg" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                         </div>
-
                     </div>
                 </div>
             </section>
@@ -185,11 +184,10 @@
                     <div id="vision-container">
                         <div class="work-introduction">
                             <div class="reveal fade-bottom">
-                                <h2>Design, style guide and prototyping</h2>
-                                <p>
-                                The goal of this phase was to determine the information architecture of the website by designing a sitemap and creating a style guide with colors, typography, and the logo. This was followed by designing a mockup to visualize the user interface and converting it into a fully functional prototype to test the user experience.
-                                    <br><br>
-                                    Since we were rebranding a website built using a template, many design tasks were not required. The information architecture didn't change much; I only needed to apply the new branding and add a few pages. All of this was done directly by modifying the template itself, so it wasn't necessary to design and build a prototype.
+                                <h2>Analyze market, gther visual inspiration, and begin designing</h2>
+                                  <p>
+                                  After analyzing competitors and their websites, I started creating a moodboard with design inspiration that aligned with the Jbd Engineering brand.
+                                  With the logo and website structure already established, my focus was on enhancing the information architecture and creating a style guide encompassing colors, typography, and the logo.
                                 </p>
                             </div>
                         </div>
@@ -197,31 +195,54 @@
                         <div class="media-text">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Applying the new branding design</h3>
+                                <h3 class="tag-line">Style guide based on the logo</h3>
                                 <p>
-                                Because the new brand guide was provided, I didn't had to redesign the entire brand my self. It was also not necessary to create mockups to visualize how the website would look like, because I could directly apply this on the website self. 
+                                I decided to base the style guide on the colors and typography of the Jbd Engineering logo. For typography, I chose Roboto as the primary font and Barlow as the secondary font, as they both complemented the font used in the logo.
                                 </p>
                                 <p>
-                                The sitemap hadn't changed much, I only need to add a few pages for the Zeegalm and West Bay holiday domains. The webpages were new so I had to structre the pages with some available HTML elements from the existing template. 
+                                Regarding colors, I opted to derive them from the Jbd Engineering logo, with slight adjustments to achieve a sleek and modern look for the website. Thus, I selected #080705 (Black) and #FFFDFD for the background and text, #2708A0 (Polynesian blue), #5FAD56 (Mantis), and #D00000 (Engineering orange) as accent colors to evoke the essence of LED displays on the website.
                                 </p>
                             </div>
-                            <img src="./../assets/media/case-fhg/image-design-1.jpg" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="./../assets/media/case-jbd/image-design-1.png" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                         </div>
 
                         <div class="media-text">
-                        <img src="./../assets/media/case-fhg/image-design-2.jpg" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                        <img src="./../assets/media/case-jbd/image-design-2.png" class="reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Prototyping and building the website</h3>
+                                <h3 class="tag-line">Hi-fi mockup proposal</h3>
                                 <p>
-                                By directly applying the new design on the website we could immediately see how the website would look like and function. This made it easy to test and experiment different approaches and adjust the design to the users needs.
+                                Following the creation of the style guide, it was time to develop a homepage proposal for the website. Using the sitemap and the style guide as my guide, I began crafting the homepage in Adobe XD.
                                 </p>
                                 <p>
-                                After a few iterations, we were satisfied with the final design and could now translate the content so that it is available in multiple languages.  
+                                Upon completing the homepage design, I shared the mockup with my supervisor for feedback. While there were some design adjustments suggested, overall, my supervisor was pleased with the proposal. Consequently, I was given the green light to proceed with refining the other pages while making necessary design adjustments.
                                 </p>
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class="mockups-container">
+                  <h3>Mockup screens</h3>
+                  <div class="line coral"></div>
+                  <div class="portfolio-gallery-container reveal fade-bottom">
+                    <!-- Portfolio navigation -->
+                    <!-- <div class="items">
+                      <span class="item active" data-name="all">All</span>
+                      <span class="item" data-name="Photo">Photos</span>
+                      <span class="item" data-name="Video">Video</span>
+                    </div> -->
+                    <!-- Portfolio images -->
+                    <div class="gallery">
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/" target="_blank"><span><img src="../assets/media/case-jbd/jbd-home.png" alt="Jbd Engineering homepage" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/2ca93483-b026-4dfc-9a4d-86fa40eb5d94" target="_blank"><span><img src="../assets/media/case-jbd/jbd-rentals.png" alt="Jbd Engineering rentals page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/e79f0185-6c9b-4412-b83d-a63816b99c6c" target="_blank"><span><img src="../assets/media/case-jbd/jbd-repairs.png" alt="Jbd Engineering reparis page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/4639eee0-3a89-4c05-b276-0f1328dc8a6c" target="_blank"><span><img src="../assets/media/case-jbd/jbd-about.png" alt="Jbd Engineering about page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/c880f3b0-15b4-4de5-97b3-ece93a8ee6ee" target="_blank"><span><img src="../assets/media/case-jbd/jbd-works.png" alt="Jbd Engineering works page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/1a99419b-f229-47f1-bb70-3e347dd24c7f" target="_blank"><span><img src="../assets/media/case-jbd/jbd-faq.png" alt="Jbd Engineering faq page" loading="lazy"></span></a></div>
+                        <div class="image" data-name="Photo"><a href="https://xd.adobe.com/view/6df82aa0-5aa0-4490-8638-4e2a409599ef-38ab/screen/2d86ba4a-b36b-4aa6-9f24-6a928ee5f50e" target="_blank"><span><img src="../assets/media/case-jbd/jbd-contact.png" alt="Jbd Engineering contact page" loading="lazy"></span></a></div>
+                    </div>
+                  </div>
                 </div>
             </section>
 
@@ -234,21 +255,21 @@
                         <div class="media-text">
                             <!-- Media content -->
                             <div class="media-content reveal fade-bottom">
-                                <h3 class="tag-line">Few minor adjustments, SEO optimization, and ready for deployment.</h3>
+                                <h3 class="tag-line">Final adjustments and ready for production</h3>
                                 <p>
-                                Since we were modifying a template, we could easily combine the design and development phases into one, which also made it easier to experiment, test, and iterate.
+                                Once the final feedback was applied to the mockup, the design was ready to be transferred to the developer for coding.
                                 </p>
                                 <p>
-                                Once all the pages were designed, built, tested, translated, and the minor feedback from the project owner was applied, the website was ready for deployment.
+                                At lsDevign, all websites are built using a custom WordPress theme, allowing us to create fully customized designs for clients and connect the front-end with the back-end using plugins.
                                 </p>
                                 <p>
-                                By making adjustments to an older codebase, changing the complete design, and integrating a bookings module, this was my first big project, which I am very proud of!
+                                Some additional adjustments were made to the design before deployment by the developer to better suit the client's needs. That said, I am very happy and proud of this project.
                                 </p>
                                 <p>
-                                I learned a lot during my time at Flow Hospitality Group, and I am forever grateful for the trust and opportunity they gave me. Belcoast Holidays is now online, and you can see the results live for yourself.
+                                I greatly appreciated the opportunity and the freedom given for this project. The Jbd Engineering website is now live, and you can check it out for yourself.
                                 </p>
                             </div>
-                            <img src="./../assets/media/case-fhg/screencapture-belcoastholidays-contact.png" class="image-border-right reveal fade-bottom" alt="belcoastholidays.be westbay webpagina" loading="lazy">
+                            <img src="./../assets/media/case-jbd/image-discovery.png" class="image-border-right reveal fade-bottom" alt="Jbd Engineering homepage" loading="lazy">
                         </div>
 
                     </div>
@@ -256,49 +277,58 @@
             </section>
 
             <!-- Foto parallax section -->
-            <div class="parallax-image fhg-parallax">
-                <h3>Visit the new website<br> of Belcoast Holidays</h3>
-                <a href="https://belcoastholidays.be/nl/" target="_blank" class="button-coral">Visit website</a>
+            <div class="parallax-image jbd-parallax">
+                <h3>Visit the website<br> of Jbd Engineering</h3>
+                <a href="https://jbdengineering.be/nl/" target="_blank" class="button-coral">Visit website</a>
             </div>
             <!-- Skills summary section -->
             <section class="white-bg">
                 <div class="fw-container skills-section">
-                    <h3>Skills used during my internship</h3>
+                    <h3>Skills used in the project</h3>
                     <div class="line grey"></div>
                     <ul class="skills-container reveal fade-bottom">
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>JavaScript</li>
-                        <li>PHP</li>
-                        <li>Adobe Illustrator</li>
+                        <li>Adobe XD</li>
                         <li>Adobe Photoshop</li>
-                        <li>Adobe InDesign</li>
-                        <li>Adobe Lightroom CC</li>
-                        <li>Adobe After Effects</li>
-                        <li>Photography & video</li>
+                        <li>Adobe Illustrator</li>
+                        <li>Web design</li>
+                        <li>User interface design</li>
+                        <li>Information Architecture</li>
+                        <li>Graphic design</li>
                     </ul>
                 </div>
             </section>
-            <!-- Work gallery section -->
+            <!-- Work section -->
             <section class="black-bg">
                 <div class="fw-container">
-                  <h3>Other published assignments</h3>
-                  <div class="line coral"></div>
-                  <div class="portfolio-gallery-container reveal fade-bottom">
-                    <!-- Portfolio navigation -->
-                    <div class="items">
-                      <span class="item active" data-name="all">All</span>
-                      <span class="item" data-name="Photo">Photos</span>
-                      <!-- <span class="item" data-name="Video">Video</span> -->
+                    <h3>Explore other projects</h3>
+                    <div class="line grey"></div>
+                    <div id="work-container">
+                        <div class="media-content-small">
+                            <img src="./../assets/media/jbd-engineering-thumbnail.png" class="reveal fade-bottom" alt="Jbd Engineering" loading="lazy">
+                            <div class="media-content-text reveal fade-bottom">
+                                <h4>Designing the Jbd Engineering website</h4>
+                                <p>
+                                In the final phase of my associate degree in Digital Design, I completed a semester of workplace training at lsDevign.
+                                    <br><br>
+                                    One of my last tasks there was to create a brand new website for Jbd Engineering, a LED displays rental and repairs business.
+                                </p>
+                                <a href="./case/jbd-engineering.php" class="underline-hover-white white-link">More info</a>
+                            </div>
+                        </div>
+
+                        <div class="media-content-small">
+                            <div class="media-content-text">
+                                <h4>Belcoast Holidays website</h4>
+                                <p>
+                                    During my apprenticeship at Flow Hospitality Group, I was tasked with rebranding the existing C-Holidays website to Belcoast Holidays
+                                    <br><br>
+                                    The website got a completely new look that looks fresher and conveys more of a vacation feel. A recranet booking module was also linked to the website so you can book a stay right away. 
+                                </p>
+                                <a href="./case/belcoast.php" class="underline-hover-white white-link">More info</a>
+                            </div>
+                            <img src="./../assets/media/Flow_Logo.png" class="reveal fade-bottom" alt="Flow Hospitality Group logo" id="flow-logo" loading="lazy">
+                        </div>
                     </div>
-                    <!-- Portfolio images -->
-                    <div class="gallery">
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/Cdh8y7Fob1-/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-1.jpg" alt="chotelsbelgium sociale media sfeer foto strand" loading="lazy"></span></a></div>
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/Ce1Hhl4ot3d/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-2.jpg" alt="chotelsbelgium sociale media sfeer foto strand" loading="lazy"></span></a></div>
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/CddgDb-o2ie/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-3.jpg" alt="chotelsbelgium sociale media sfeer foto strand" loading="lazy"></span></a></div>
-                        <div class="image" data-name="Photo"><a href="https://www.instagram.com/p/CeA0gzWI4f-/?utm_source=ig_web_copy_link" target="_blank"><span><img src="../assets/media/case-fhg/photo-4.jpg" alt="chotelsbelgium sociale media hotel excelsior foto" loading="lazy"></span></a></div>
-                    </div>
-                  </div>
                 </div>
             </section>
             <!-- Include parallax -->

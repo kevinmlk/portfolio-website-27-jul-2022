@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /case/           # Allow access to the main portfolio section
+
+Sitemap: https://www.kevinmalekera.be/sitemap.xml

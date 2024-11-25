@@ -2,14 +2,38 @@
 <html lang="en">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
+        <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-H55DCDM7PL"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);} 
             gtag('js', new Date());
 
             gtag('config', 'G-H55DCDM7PL');
+        </script> -->
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KZPWFDM4');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Hotjar Tracking Code for https://kevinmalekera.be -->
+            <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:5169058,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
         </script>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Kevin Malekera - Jbd Engineering">
+        <meta property="og:description" content="During my internship at lsDevign, one of my tasks was to design a new website for Jbd Engineering.">
+        <meta property="og:image" content="https://kevinmalekera.be/assets/media/case-jbd/jbd-header.jpg">
+        <meta property="og:url" content="https://kevinmalekera.be/case/jbd-engineering.php">
+        <meta property="og:type" content="website">
          <!-- Tab title -->
          <title>Portfolio - Jbd Engineering | Kevin Malekera</title>
          <!-- SEO -->
@@ -46,6 +70,10 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZPWFDM4"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <!-- Inlcude preloader -->
         <?php include_once(__DIR__ . '/../includes/preloader.inc.php'); ?>
         <!-- Header -->
@@ -297,6 +325,40 @@
                     </ul>
                 </div>
             </section>
+            <!-- Work section -->
+            <!-- <section class="black-bg">
+                <div class="fw-container">
+                    <h3>Explore other projects</h3>
+                    <div class="line grey"></div>
+                    <div id="work-container">
+                        <div class="media-content-small">
+                            <img src="./../assets/media/case-matemi/matemi-header.jpg" class="reveal fade-bottom" alt="Jbd Engineering" loading="lazy">
+                            <div class="media-content-text reveal fade-bottom">
+                                <h4>Matemi, website for a HVAC business from Ostend. </h4>
+                                <p>
+                                    During my summer job as an User Interface Designer at lsDevign, I had to redesign a website for a HVAC business from Ostend.
+                                    <br><br>
+                                    For this project I had to come up with a new style guide end create high fidelity mockups for the user interface of the website.
+                                </p>
+                                <a href="./matemi.php" class="underline-hover-white white-link">More info</a>
+                            </div>
+                        </div>
+
+                        <div class="media-content-small">
+                            <div class="media-content-text">
+                                <h4>Belcoast Holidays website</h4>
+                                <p>
+                                    During my apprenticeship at Flow Hospitality Group, I was tasked with rebranding the existing C-Holidays website to Belcoast Holidays
+                                    <br><br>
+                                    The website got a completely new look that looks fresher and conveys more of a vacation feel. A recranet booking module was also linked to the website so you can book a stay right away. 
+                                </p>
+                                <a href="./case/belcoast.php" class="underline-hover-white white-link">More info</a>
+                            </div>
+                            <img src="./../assets/media/Flow_Logo.png" class="reveal fade-bottom" alt="Flow Hospitality Group logo" id="flow-logo" loading="lazy">
+                        </div>
+                    </div>
+                </div>
+            </section> -->
             <!-- Include parallax -->
             <?php include_once(__DIR__ . '/../includes/parallax-deep.inc.php'); ?>
         </main>

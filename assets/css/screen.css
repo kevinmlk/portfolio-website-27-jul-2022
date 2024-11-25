@@ -232,6 +232,10 @@
     width: fit-content;
 }
 
+.white-link {
+    color: var(--white) !important;
+}
+
 /* *************** */
 /* WORK PAGE STYLE */
 /* *************** */
@@ -281,6 +285,34 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.glide {
+    margin-top: 2rem;
+}
+
+.glide__slide a img {
+    height: 850px;
+}
+
+.glide__arrows {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.glide__arrows button {
+    border: none;
+    padding: 0;
+}
+
+.glide__arrows button:hover {
+    cursor: pointer;
+}
+
+.glide__arrows button img {
+    height: 48px;
 }
 
 ::selection{

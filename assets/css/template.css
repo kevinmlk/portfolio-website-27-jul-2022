@@ -414,6 +414,13 @@ a#currlanglink {
 }
 
 /* Button style */
+.glide__arrows button {
+    background-color: transparent;
+    color: var(--white);
+    padding: 1rem 1.5rem;
+    border-radius: 25px;
+}
+
 .button-coral {
     padding: 1.2rem 1.5rem;
     border: 1px solid var(--coral);
